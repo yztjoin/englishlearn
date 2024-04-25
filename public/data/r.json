@@ -1,0 +1,802 @@
+[
+  {
+    "value": "rabbit/ ‘ræbit/ n.兔子，野兔",
+    "prefix": "r"
+  },
+  {
+    "value": "race/ reis/ n.比赛，竞赛，竞争",
+    "prefix": "r"
+  },
+  {
+    "value": "race/ reis/ n.人种，种族，民族",
+    "prefix": "r"
+  },
+  {
+    "value": "racial/ ‘reiʃəl/ a.种族的，人种的",
+    "prefix": "r"
+  },
+  {
+    "value": "rack/ ræk/ n.搁物架;行李架",
+    "prefix": "r"
+  },
+  {
+    "value": "rack/ ræk/ vt.使苦痛，折磨",
+    "prefix": "r"
+  },
+  {
+    "value": "radar/ ‘reidə/ n.雷达，无线电探测器",
+    "prefix": "r"
+  },
+  {
+    "value": "radiation/ reidi’eiʃən/ n.放射，发射;辐射能",
+    "prefix": "r"
+  },
+  {
+    "value": "radio/ ‘reidiəu/ n.无线电;收音机",
+    "prefix": "r"
+  },
+  {
+    "value": "radioactive/ reidiəu’æktiv/ a.放射性的",
+    "prefix": "r"
+  },
+  {
+    "value": "radius/ ‘reidjəs/ n.半径",
+    "prefix": "r"
+  },
+  {
+    "value": "rag/ ræg/ n.破布，碎布，抹布",
+    "prefix": "r"
+  },
+  {
+    "value": "rail/ reil/ n.横条，横杆;铁轨",
+    "prefix": "r"
+  },
+  {
+    "value": "railroad/ ‘reilrəud/ n.铁路 vi.由铁路运输",
+    "prefix": "r"
+  },
+  {
+    "value": "railway/ ‘reilwei/ n.铁路，铁道",
+    "prefix": "r"
+  },
+  {
+    "value": "rain/ rein/ n.雨，雨水 vi.下雨",
+    "prefix": "r"
+  },
+  {
+    "value": "rainbow/ ‘reinbəu/ n.虹，彩虹",
+    "prefix": "r"
+  },
+  {
+    "value": "rainy/ ‘reini/ a.下雨的，多雨的",
+    "prefix": "r"
+  },
+  {
+    "value": "raise/ ‘reiz/ vt.举起;引起;提高",
+    "prefix": "r"
+  },
+  {
+    "value": "range/ reindʒ/ n.排，行;山脉;范围",
+    "prefix": "r"
+  },
+  {
+    "value": "rank/ ræŋk/ n.排，横行;社会阶层",
+    "prefix": "r"
+  },
+  {
+    "value": "rapid/ ‘ræpid/ a.快的 n.急流",
+    "prefix": "r"
+  },
+  {
+    "value": "rare/ reə/ a.稀薄的;稀有的",
+    "prefix": "r"
+  },
+  {
+    "value": "rarely/ ‘reəli/ ad.很少，难得",
+    "prefix": "r"
+  },
+  {
+    "value": "rat/ ræt/ n.老鼠，耗子",
+    "prefix": "r"
+  },
+  {
+    "value": "rate/ reit/ n.比率;速度;价格",
+    "prefix": "r"
+  },
+  {
+    "value": "rather/ ‘ra:ðə/ ad.宁可，宁愿;相当",
+    "prefix": "r"
+  },
+  {
+    "value": "ratio/ ‘reiʃiəu/ n.比，比率",
+    "prefix": "r"
+  },
+  {
+    "value": "rational/ ‘ræʃənl/ a.理性的;出于理性的",
+    "prefix": "r"
+  },
+  {
+    "value": "raw/ rɔ:/ a.未煮过的;未加工的",
+    "prefix": "r"
+  },
+  {
+    "value": "ray/ rei/ n.光线，射线，辐射线",
+    "prefix": "r"
+  },
+  {
+    "value": "reach/ ri:tʃ/ vt.抵达;伸出vi.达到",
+    "prefix": "r"
+  },
+  {
+    "value": "react/ ri’ækt/ vi.起反应;有影响",
+    "prefix": "r"
+  },
+  {
+    "value": "reaction/ ri’ækʃən/ n.反应;反作用",
+    "prefix": "r"
+  },
+  {
+    "value": "read/ ri:d/ vt.读，看懂 vi.读",
+    "prefix": "r"
+  },
+  {
+    "value": "reader/ ‘ri:də/ n.读者;读物，读本",
+    "prefix": "r"
+  },
+  {
+    "value": "reading/ ‘ri:diŋ/ n.读，阅读;读书",
+    "prefix": "r"
+  },
+  {
+    "value": "ready/ ‘redi/ a.准备好的;愿意的",
+    "prefix": "r"
+  },
+  {
+    "value": "real/ riəl/ a.真的;现实的",
+    "prefix": "r"
+  },
+  {
+    "value": "reality/ ri’æliti/ n.现实;真实",
+    "prefix": "r"
+  },
+  {
+    "value": "realize/ ‘riəlaiz/ vt.实现;认识到",
+    "prefix": "r"
+  },
+  {
+    "value": "really/ ‘riəli/ ad.真正地;实在",
+    "prefix": "r"
+  },
+  {
+    "value": "realm/ ‘relm/ n.王国，国土;领域",
+    "prefix": "r"
+  },
+  {
+    "value": "rear/ riə/ n.后部，后面;背面",
+    "prefix": "r"
+  },
+  {
+    "value": "rear/ riə/ vt.抚养，培养;栽种",
+    "prefix": "r"
+  },
+  {
+    "value": "reason/ ‘ri:zn/ n.理由;理性 vi.推理",
+    "prefix": "r"
+  },
+  {
+    "value": "reasonable/ ‘ri:znəbl/ a.合情合理的;公道的",
+    "prefix": "r"
+  },
+  {
+    "value": "rebel/ ‘rebəl, ri’bel/ vi.造反 n.造反者",
+    "prefix": "r"
+  },
+  {
+    "value": "recall/ ri’kɔ:l/ vt.回想;叫回;收回",
+    "prefix": "r"
+  },
+  {
+    "value": "receipt/ ri’si:t/ n.收到;收条，收据",
+    "prefix": "r"
+  },
+  {
+    "value": "receive/ ri’si:v/ vt.收到;得到;接待",
+    "prefix": "r"
+  },
+  {
+    "value": "receiver/ ri’si:və/ n.收受者，收件人",
+    "prefix": "r"
+  },
+  {
+    "value": "recent/ ‘ri:snt/ a.新近的，最近的",
+    "prefix": "r"
+  },
+  {
+    "value": "recently/ ‘ri:sntli/ ad.最近，新近",
+    "prefix": "r"
+  },
+  {
+    "value": "reception/ ri’sepʃən/ a.接待;招待会;接受",
+    "prefix": "r"
+  },
+  {
+    "value": "recognition/ rekəg’niʃən/ n.认出，识别;承认",
+    "prefix": "r"
+  },
+  {
+    "value": "recognize/ ‘rekəgnaiz/ vt.认识，认出;承认",
+    "prefix": "r"
+  },
+  {
+    "value": "recommend/ rekə’mend/ vt.推荐，介绍;劝告",
+    "prefix": "r"
+  },
+  {
+    "value": "recommendation/ rekəmen’deiʃən/ n.推荐，介绍;劝告",
+    "prefix": "r"
+  },
+  {
+    "value": "record/ ‘rekɔ:d, ri’kɔ:d/ n.记录;履历 vt.记录",
+    "prefix": "r"
+  },
+  {
+    "value": "recorder/ ri’kɔ:də/ n.记录者;录音机",
+    "prefix": "r"
+  },
+  {
+    "value": "recover/ ri’kΛvə/ vt.重新获得;挽回",
+    "prefix": "r"
+  },
+  {
+    "value": "recovery/ ri’kΛvəri/ n.重获;痊愈，恢复",
+    "prefix": "r"
+  },
+  {
+    "value": "red/ red/ a.红色的 n.红色",
+    "prefix": "r"
+  },
+  {
+    "value": "reduce/ ri’dju:s/ vt.减少，减小;简化",
+    "prefix": "r"
+  },
+  {
+    "value": "reduction/ ri’dΛkʃən/ n.减少，减小，缩减",
+    "prefix": "r"
+  },
+  {
+    "value": "refer/ ri’fə:/ vt.使求助于 vi.谈到",
+    "prefix": "r"
+  },
+  {
+    "value": "reference/ ‘refərəns/ n.参考;出处;提及",
+    "prefix": "r"
+  },
+  {
+    "value": "refine/ ri’fain/ vt.&vi.精炼，提纯",
+    "prefix": "r"
+  },
+  {
+    "value": "reflect/ ri’flekt/ vt.反射;反映;思考",
+    "prefix": "r"
+  },
+  {
+    "value": "reflection/ ri’flekʃən/ n.反射;映象;反映",
+    "prefix": "r"
+  },
+  {
+    "value": "reflexion/ ri’flekʃən/ n.反射;映象;反映",
+    "prefix": "r"
+  },
+  {
+    "value": "reform/ ri’fɔ:m/ vt.&n.改革，改良",
+    "prefix": "r"
+  },
+  {
+    "value": "refresh/ ri’freʃ/ vt.使清新vi.恢复精神",
+    "prefix": "r"
+  },
+  {
+    "value": "refrigerator/ ri’fridʒəreitə/ n. 冰箱，冷藏库",
+    "prefix": "r"
+  },
+  {
+    "value": "refusal/ ri’fju:zəl/ n.拒绝",
+    "prefix": "r"
+  },
+  {
+    "value": "refuse/ ri’fju:z/ vt.拒绝 vt.拒绝",
+    "prefix": "r"
+  },
+  {
+    "value": "regard/ ri’ga:d/ vt.把…看作;尊敬",
+    "prefix": "r"
+  },
+  {
+    "value": "regarding/ ri’ga:diŋ/ prep.关于",
+    "prefix": "r"
+  },
+  {
+    "value": "regardless/ ri’ga:dlis/ ad.不顾一切地",
+    "prefix": "r"
+  },
+  {
+    "value": "region/ ‘ri:dʒən/ n.地区，地带;领域",
+    "prefix": "r"
+  },
+  {
+    "value": "register/ ‘redʒistə/ n.&vt.登记，注册",
+    "prefix": "r"
+  },
+  {
+    "value": "regret/ ri’gret/ vt.懊悔;抱歉 n.懊悔",
+    "prefix": "r"
+  },
+  {
+    "value": "regular/ ‘regjulə/ a.规则的;整齐的",
+    "prefix": "r"
+  },
+  {
+    "value": "regulate/ ‘regjuleit/ vt.管理，控制;调整",
+    "prefix": "r"
+  },
+  {
+    "value": "regulation/ regju’leiʃən/ n.规则，规章;管理",
+    "prefix": "r"
+  },
+  {
+    "value": "reinforce/ ri:in’fɔ:s/ vt.增援，支援;加强",
+    "prefix": "r"
+  },
+  {
+    "value": "reject/ ri’dʒekt/ vt.拒绝;丢掉;驳回",
+    "prefix": "r"
+  },
+  {
+    "value": "relate/ ri’leit/ vt.叙述;使联系",
+    "prefix": "r"
+  },
+  {
+    "value": "relation/ ri’leiʃən/ n.关系，联系;家属",
+    "prefix": "r"
+  },
+  {
+    "value": "relationship/ ri’leiʃənʃip/ n.关系，联系",
+    "prefix": "r"
+  },
+  {
+    "value": "relative/ ‘relətiv/ a.有关系的;相对的",
+    "prefix": "r"
+  },
+  {
+    "value": "relativity/ relə’tiviti/ n.相关性;相对性",
+    "prefix": "r"
+  },
+  {
+    "value": "relax/ ri’læks/ vt.使松弛 vi.松弛",
+    "prefix": "r"
+  },
+  {
+    "value": "release/ ri’li:s/ vt.释放;放松;发表",
+    "prefix": "r"
+  },
+  {
+    "value": "relevant/ ‘relivənt/ a.有关的，贴切的",
+    "prefix": "r"
+  },
+  {
+    "value": "reliability/ rilaiə’biliti/ n.可靠性",
+    "prefix": "r"
+  },
+  {
+    "value": "reliable/ ri’laiəbl/ a.可靠的，可信赖的",
+    "prefix": "r"
+  },
+  {
+    "value": "relief/ ri’li:f/ n.减轻;救济;援救",
+    "prefix": "r"
+  },
+  {
+    "value": "relieve/ ri’li:v/ vt.减轻，解除;救济",
+    "prefix": "r"
+  },
+  {
+    "value": "religion/ ri’lidʒən/ n.宗教;宗教信仰",
+    "prefix": "r"
+  },
+  {
+    "value": "religious/ ri’lidʒəs/ a.宗教的;虔诚的",
+    "prefix": "r"
+  },
+  {
+    "value": "reluctant/ ri’lΛktənt/ a.不愿的，勉强的",
+    "prefix": "r"
+  },
+  {
+    "value": "rely/ ri’lai/ vi.依赖，依靠;信赖",
+    "prefix": "r"
+  },
+  {
+    "value": "remain/ ri’mein/ vi.剩下，余留;保持",
+    "prefix": "r"
+  },
+  {
+    "value": "remark/ ri’ma:k/ vt.&vi.&n.评论，谈论",
+    "prefix": "r"
+  },
+  {
+    "value": "remarkable/ ri’ma:kəbl/ a.异常的，非凡的",
+    "prefix": "r"
+  },
+  {
+    "value": "remedy/ ‘remidi/ n.&vt.治疗;补救",
+    "prefix": "r"
+  },
+  {
+    "value": "remember/ ri’membə/ vt.记得，想起;记住",
+    "prefix": "r"
+  },
+  {
+    "value": "remind/ ri’maind/ vt.提醒，使想起",
+    "prefix": "r"
+  },
+  {
+    "value": "remote/ ri’məut/ a.相隔很远的;冷淡的",
+    "prefix": "r"
+  },
+  {
+    "value": "removal/ ri’mu:vəl/ n.移动;迁移;除掉",
+    "prefix": "r"
+  },
+  {
+    "value": "remove/ ri’mu:v/ vt.移动，搬开;脱掉",
+    "prefix": "r"
+  },
+  {
+    "value": "render/ ‘rendə/ vt.表示，给予;使得",
+    "prefix": "r"
+  },
+  {
+    "value": "renew/ ri’nju:/ vt.使更新 vi.更新",
+    "prefix": "r"
+  },
+  {
+    "value": "rent/ rent/ n.租金，租 vi.出租",
+    "prefix": "r"
+  },
+  {
+    "value": "repair/ ri’peə/ vt.&n.修理，修补",
+    "prefix": "r"
+  },
+  {
+    "value": "repeat/ ri’pi:t/ vt.重说，重做 n.重复",
+    "prefix": "r"
+  },
+  {
+    "value": "repeatedly/ ri’pi:tidli/ ad.重复地;一再",
+    "prefix": "r"
+  },
+  {
+    "value": "repetition/ repi’tiʃən/ n.重复，反复",
+    "prefix": "r"
+  },
+  {
+    "value": "reply/ ri’plai/ vi.&n.回答，答复",
+    "prefix": "r"
+  },
+  {
+    "value": "report/ ri’pɔ:t/ vt.&vi.报告;汇报",
+    "prefix": "r"
+  },
+  {
+    "value": "reporter/ ri’pɔ:tə/ n.记者，通讯员",
+    "prefix": "r"
+  },
+  {
+    "value": "represent/ repri’zent/ vt.描绘;代表;象征",
+    "prefix": "r"
+  },
+  {
+    "value": "representative/ repri’zentətiv/ a.代表性的 n.代表",
+    "prefix": "r"
+  },
+  {
+    "value": "reproduce/ ri:prə’dju:s/ vt.&vi.繁殖，生殖",
+    "prefix": "r"
+  },
+  {
+    "value": "republic/ ri’pΛblik/ n.共和国，共和政体",
+    "prefix": "r"
+  },
+  {
+    "value": "reputation/ repju(:)’teiʃən/ n.名誉，名声;好名声",
+    "prefix": "r"
+  },
+  {
+    "value": "request/ ri’kwest/ n.&v.请求，要求",
+    "prefix": "r"
+  },
+  {
+    "value": "require/ ri’kwaiə/ vt.需要;要求，命令",
+    "prefix": "r"
+  },
+  {
+    "value": "requirement/ ri’kwaiəmənt/ n.需要;要求",
+    "prefix": "r"
+  },
+  {
+    "value": "rescue/ ‘reskju:/ vt.&n.援救，营救",
+    "prefix": "r"
+  },
+  {
+    "value": "resemble/ ri’zembl/ vt.像，类似",
+    "prefix": "r"
+  },
+  {
+    "value": "reserve/ ri’zə:v/ vt.储备，保留;预定",
+    "prefix": "r"
+  },
+  {
+    "value": "reservior/ / n.水库;蓄水池",
+    "prefix": "r"
+  },
+  {
+    "value": "residence/ ‘rezidəns/ n.居住;驻扎;住处",
+    "prefix": "r"
+  },
+  {
+    "value": "resident/ ‘rezidənt/ a.居住的 n.居民",
+    "prefix": "r"
+  },
+  {
+    "value": "resign/ ri’zain/ vt.放弃 vi.辞职",
+    "prefix": "r"
+  },
+  {
+    "value": "resist/ ri’zist/ vt.&vi.抵抗，抵制",
+    "prefix": "r"
+  },
+  {
+    "value": "resistance/ ri’zistəns/ n.抵抗;抵制;抵抗力",
+    "prefix": "r"
+  },
+  {
+    "value": "resistant/ ri’zistənt/ a.抵抗的，反抗的",
+    "prefix": "r"
+  },
+  {
+    "value": "resolution/ rezə’lju:ʃən/ n.坚决，坚定;决定",
+    "prefix": "r"
+  },
+  {
+    "value": "resolve/ ri’zɔlv/ vt.解决;决心 n.决心",
+    "prefix": "r"
+  },
+  {
+    "value": "resort/ ri’zɔ:t/ vi.&n.求助，凭借;诉诸于(+ to武力等)",
+    "prefix": "r"
+  },
+  {
+    "value": "respective/ ris’pektiv/ 各自的，各个的",
+    "prefix": "r"
+  },
+  {
+    "value": "respectively/ ris’pektivli/ ad.各自地，分别地",
+    "prefix": "r"
+  },
+  {
+    "value": "respond/ ris’pɔnd/ vi.作答;响应",
+    "prefix": "r"
+  },
+  {
+    "value": "response/ ris’pɔns/ n.作答，回答;响应",
+    "prefix": "r"
+  },
+  {
+    "value": "restless/ ‘restlis/ a.不安定的，焦虑的",
+    "prefix": "r"
+  },
+  {
+    "value": "restore/ ris’tɔ:/ vt.恢复;归还;修补",
+    "prefix": "r"
+  },
+  {
+    "value": "restrain/ ris’trein/ vt.抑制，遏制;限制",
+    "prefix": "r"
+  },
+  {
+    "value": "restraint/ ris’treint/ n.抑制;遏制;克制",
+    "prefix": "r"
+  },
+  {
+    "value": "restrict/ ris’trikt/ vt限制，限定，约束",
+    "prefix": "r"
+  },
+  {
+    "value": "resume/ ri’zju:m/ vt.恢复;重新开始",
+    "prefix": "r"
+  },
+  {
+    "value": "retain/ ri’tein/ vt.保持，保留，保有",
+    "prefix": "r"
+  },
+  {
+    "value": "retire/ ri’taiə/ vi.退下;引退;就寝",
+    "prefix": "r"
+  },
+  {
+    "value": "retreat/ ri’tri:t/ vi.(被迫)退却，后退",
+    "prefix": "r"
+  },
+  {
+    "value": "reveal/ ri’vi:l/ vt.展现;揭示，揭露",
+    "prefix": "r"
+  },
+  {
+    "value": "reverse/ ri’və:s/ vt.颠倒，翻转 n.背面",
+    "prefix": "r"
+  },
+  {
+    "value": "review/ ri’vju:/ vt.再检查 n.复习",
+    "prefix": "r"
+  },
+  {
+    "value": "revise/ ri’vaiz/ vt.修订，校订;修改",
+    "prefix": "r"
+  },
+  {
+    "value": "revolt/ ri’vəult/ vi.&n.反抗，造反",
+    "prefix": "r"
+  },
+  {
+    "value": "revolution/ revə’lu:ʃən/ n.革命;旋转，绕转",
+    "prefix": "r"
+  },
+  {
+    "value": "revolutionary/ revə’lu:ʃənəri/ a.革命的 n.革命者",
+    "prefix": "r"
+  },
+  {
+    "value": "reward/ ri’wɔ:d/ n.报答;报酬 vt.报答",
+    "prefix": "r"
+  },
+  {
+    "value": "rhythm/ ‘riðəm/ n.韵律，格律;节奏",
+    "prefix": "r"
+  },
+  {
+    "value": "rib/ rib/ n.肋，肋骨",
+    "prefix": "r"
+  },
+  {
+    "value": "ribbon/ ‘ribən/ n.缎带，丝带;带",
+    "prefix": "r"
+  },
+  {
+    "value": "rid/ rid/ vt.使摆脱，使去掉",
+    "prefix": "r"
+  },
+  {
+    "value": "ridge/ ridʒ/ n.脊;岭，山脉;垄",
+    "prefix": "r"
+  },
+  {
+    "value": "ridiculous/ ri’dikjuləs/ a.荒谬的，可笑的",
+    "prefix": "r"
+  },
+  {
+    "value": "rifle/ ‘raifl/ n.步枪，来复枪",
+    "prefix": "r"
+  },
+  {
+    "value": "rigid/ ‘ridʒid/ a.刚硬的;僵硬的",
+    "prefix": "r"
+  },
+  {
+    "value": "ripe/ raip/ a.熟的;时机成熟的",
+    "prefix": "r"
+  },
+  {
+    "value": "risk/ risk/ n.风险，危险，冒险",
+    "prefix": "r"
+  },
+  {
+    "value": "rival/ ‘raivəl/ n.竞争者 a.竞争的",
+    "prefix": "r"
+  },
+  {
+    "value": "roar/ rɔ:/ vi.吼叫;呼喊 n.吼",
+    "prefix": "r"
+  },
+  {
+    "value": "roast/ rəust/ vt.&vi.烤，炙，烘",
+    "prefix": "r"
+  },
+  {
+    "value": "robot/ ‘rəubɔt/ n.机器人;自动机",
+    "prefix": "r"
+  },
+  {
+    "value": "rocket/ ‘rɔkit/ n. 火箭，火箭发动机",
+    "prefix": "r"
+  },
+  {
+    "value": "rod/ rɔd/ n.杆，竿，棒",
+    "prefix": "r"
+  },
+  {
+    "value": "roll/ rəul/ vi.&vt.滚动;转动",
+    "prefix": "r"
+  },
+  {
+    "value": "roller/ ‘rəulə/ n.滚柱，滚筒，滚轴",
+    "prefix": "r"
+  },
+  {
+    "value": "ooman/ ‘rəumən/ n.古罗马人 a.罗马的",
+    "prefix": "o"
+  },
+  {
+    "value": "romantic/ rəu’mæntik/ a.浪漫的;传奇的",
+    "prefix": "r"
+  },
+  {
+    "value": "rotary/ ‘rəutəri/ a.旋转的，转动的",
+    "prefix": "r"
+  },
+  {
+    "value": "rotate/ rəu’teit/ vi.旋转 vt.使旋转",
+    "prefix": "r"
+  },
+  {
+    "value": "rotation/ rəu’teiʃən/ n.旋转，转动;循环",
+    "prefix": "r"
+  },
+  {
+    "value": "rotten/ ‘rɔtn/ a.腐烂的，发臭的",
+    "prefix": "r"
+  },
+  {
+    "value": "rough/ rΛf/ a.表面不平的;粗略的",
+    "prefix": "r"
+  },
+  {
+    "value": "rouse/ rauz/ vt.唤醒，唤起;惊起",
+    "prefix": "r"
+  },
+  {
+    "value": "route/ ru:t/ n.路，路线，路程",
+    "prefix": "r"
+  },
+  {
+    "value": "routine/ ru:’ti:n/ n.例行公事 a.日常的",
+    "prefix": "r"
+  },
+  {
+    "value": "row/ rəu/ n.(一)排，(一)行",
+    "prefix": "r"
+  },
+  {
+    "value": "row/ rəu/ vt.划(船等) vi.划船",
+    "prefix": "r"
+  },
+  {
+    "value": "royal/ ‘rɔiəl/ a.王的;皇家的",
+    "prefix": "r"
+  },
+  {
+    "value": "rug/ rΛg/ n.小地毯;毛毯",
+    "prefix": "r"
+  },
+  {
+    "value": "rural/ ‘ruərəl/ a.农村的，田园的",
+    "prefix": "r"
+  },
+  {
+    "value": "rush/ rΛʃ/ vi.冲，奔 vt.催促",
+    "prefix": "r"
+  },
+  {
+    "value": "rust/ rΛst/ n.锈 vi.生锈，氧化",
+    "prefix": "r"
+  }
+]

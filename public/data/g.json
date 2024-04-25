@@ -1,0 +1,366 @@
+[
+  {
+    "value": "gain on跑得比…快/逼近",
+    "prefix": "g"
+  },
+  {
+    "value": "generation gap代沟",
+    "prefix": "g"
+  },
+  {
+    "value": "get about走动/旅行",
+    "prefix": "g"
+  },
+  {
+    "value": "get above oneself变得自高自大",
+    "prefix": "g"
+  },
+  {
+    "value": "get across使通过/使被理解",
+    "prefix": "g"
+  },
+  {
+    "value": "get ahead进步/获得成功",
+    "prefix": "g"
+  },
+  {
+    "value": "get along过活/相处融洽/进展",
+    "prefix": "g"
+  },
+  {
+    "value": "get along with与···友好相处/有进展",
+    "prefix": "g"
+  },
+  {
+    "value": "get around规避(法律等)/走动",
+    "prefix": "g"
+  },
+  {
+    "value": "get at到达/了解/查明",
+    "prefix": "g"
+  },
+  {
+    "value": "get away逃脱/离开/出发",
+    "prefix": "g"
+  },
+  {
+    "value": "get back at报复",
+    "prefix": "g"
+  },
+  {
+    "value": "get by通过/走过/侥幸躲过",
+    "prefix": "g"
+  },
+  {
+    "value": "get down从…下来/下车/写下",
+    "prefix": "g"
+  },
+  {
+    "value": "get down to开始认真考虑或对待",
+    "prefix": "g"
+  },
+  {
+    "value": "get down to work认真开始工作",
+    "prefix": "g"
+  },
+  {
+    "value": "get hold of一把抓住/掌握/得到",
+    "prefix": "g"
+  },
+  {
+    "value": "get in收获/收(税等)/抵达",
+    "prefix": "g"
+  },
+  {
+    "value": "get into对…发生兴趣/卷入",
+    "prefix": "g"
+  },
+  {
+    "value": "get into debt借债/负债",
+    "prefix": "g"
+  },
+  {
+    "value": "get into the act插手…以便得到好处",
+    "prefix": "g"
+  },
+  {
+    "value": "get off下车/离开/开始",
+    "prefix": "g"
+  },
+  {
+    "value": "get on骑上(马等)/过活",
+    "prefix": "g"
+  },
+  {
+    "value": "get on to知道/意识到",
+    "prefix": "g"
+  },
+  {
+    "value": "get on with与…友好相处/继续干",
+    "prefix": "g"
+  },
+  {
+    "value": "get one's hands on得到/找到/占有",
+    "prefix": "g"
+  },
+  {
+    "value": "get out离去/(消息等)泄漏",
+    "prefix": "g"
+  },
+  {
+    "value": "get out of逃避/摆脱/改掉",
+    "prefix": "g"
+  },
+  {
+    "value": "get over克服(困难等)",
+    "prefix": "g"
+  },
+  {
+    "value": "get ready(使)准备好",
+    "prefix": "g"
+  },
+  {
+    "value": "get rid of摆脱/除去",
+    "prefix": "g"
+  },
+  {
+    "value": "get the best of胜过/打赢",
+    "prefix": "g"
+  },
+  {
+    "value": "get the better of打败/智胜",
+    "prefix": "g"
+  },
+  {
+    "value": "get through到达/完成/接通电话",
+    "prefix": "g"
+  },
+  {
+    "value": "get together聚集/会面/装配",
+    "prefix": "g"
+  },
+  {
+    "value": "get up起床/爬上/达到",
+    "prefix": "g"
+  },
+  {
+    "value": "give away泄露(秘密等)/增送",
+    "prefix": "g"
+  },
+  {
+    "value": "give back归还/恢复/后退",
+    "prefix": "g"
+  },
+  {
+    "value": "give birth使诞生/生(孩子)",
+    "prefix": "g"
+  },
+  {
+    "value": "give ear to听/倾听",
+    "prefix": "g"
+  },
+  {
+    "value": "give expression to表达出/反映",
+    "prefix": "g"
+  },
+  {
+    "value": "give in投降/交上去/听任",
+    "prefix": "g"
+  },
+  {
+    "value": "give notice通知",
+    "prefix": "g"
+  },
+  {
+    "value": "give occasion to引起",
+    "prefix": "g"
+  },
+  {
+    "value": "give off发出或放出(蒸气等)",
+    "prefix": "g"
+  },
+  {
+    "value": "give one's ears不惜任何代价(要)",
+    "prefix": "g"
+  },
+  {
+    "value": "give out分发/发出(气味等)",
+    "prefix": "g"
+  },
+  {
+    "value": "give rise to引起/使发生/造成",
+    "prefix": "g"
+  },
+  {
+    "value": "give satisfaction使满意/使满足",
+    "prefix": "g"
+  },
+  {
+    "value": "give up放弃/投降/抛弃",
+    "prefix": "g"
+  },
+  {
+    "value": "give way让路/让步/撤退",
+    "prefix": "g"
+  },
+  {
+    "value": "give way to让位于/给…让路",
+    "prefix": "g"
+  },
+  {
+    "value": "go about从事/着手做/闲逛",
+    "prefix": "g"
+  },
+  {
+    "value": "go after追逐/追求/设法得到",
+    "prefix": "g"
+  },
+  {
+    "value": "go ahead前进/干吧",
+    "prefix": "g"
+  },
+  {
+    "value": "go all out全力以赶/鼓足干劲",
+    "prefix": "g"
+  },
+  {
+    "value": "go along with赞同/附合/支持",
+    "prefix": "g"
+  },
+  {
+    "value": "go around(消息)流传/足够分配",
+    "prefix": "g"
+  },
+  {
+    "value": "go back on违背/毁(约)",
+    "prefix": "g"
+  },
+  {
+    "value": "go back to追溯到…",
+    "prefix": "g"
+  },
+  {
+    "value": "go beyond the limit超过限度",
+    "prefix": "g"
+  },
+  {
+    "value": "go by走过/放过/依照",
+    "prefix": "g"
+  },
+  {
+    "value": "go down下去/(船等)下沉",
+    "prefix": "g"
+  },
+  {
+    "value": "go for为…去/努力获取",
+    "prefix": "g"
+  },
+  {
+    "value": "go hard with sb.使某人为难(痛苦)",
+    "prefix": "g"
+  },
+  {
+    "value": "go in for从事于/酷爱/追求",
+    "prefix": "g"
+  },
+  {
+    "value": "go into进入/投入/调查",
+    "prefix": "g"
+  },
+  {
+    "value": "go into action开始行动",
+    "prefix": "g"
+  },
+  {
+    "value": "go off离去/去世/被发射",
+    "prefix": "g"
+  },
+  {
+    "value": "go off with拿去/抢走/拐走",
+    "prefix": "g"
+  },
+  {
+    "value": "go on继续下去/进行/接近",
+    "prefix": "g"
+  },
+  {
+    "value": "go on the stage上舞台/当演员",
+    "prefix": "g"
+  },
+  {
+    "value": "go out走出(房间等)/罢工",
+    "prefix": "g"
+  },
+  {
+    "value": "go out of one's way特别费心(做事)",
+    "prefix": "g"
+  },
+  {
+    "value": "go over检查/从头至尾温习",
+    "prefix": "g"
+  },
+  {
+    "value": "go through经历/完成/检查",
+    "prefix": "g"
+  },
+  {
+    "value": "go to excess走极端",
+    "prefix": "g"
+  },
+  {
+    "value": "go to great lengths竭尽全力",
+    "prefix": "g"
+  },
+  {
+    "value": "go to pieces崩溃/瓦解/身体垮台",
+    "prefix": "g"
+  },
+  {
+    "value": "go to sleep入睡/睡着",
+    "prefix": "g"
+  },
+  {
+    "value": "go to the expense of为…的目的花钱",
+    "prefix": "g"
+  },
+  {
+    "value": "go together相配/恋爱",
+    "prefix": "g"
+  },
+  {
+    "value": "go up上升/(物价等)上涨",
+    "prefix": "g"
+  },
+  {
+    "value": "go with与…持同一看法/伴随",
+    "prefix": "g"
+  },
+  {
+    "value": "go without不享受",
+    "prefix": "g"
+  },
+  {
+    "value": "go wrong出错/发生故障",
+    "prefix": "g"
+  },
+  {
+    "value": "good for有效的/值…/胜任",
+    "prefix": "g"
+  },
+  {
+    "value": "grasp at向…抓去/想抓住",
+    "prefix": "g"
+  },
+  {
+    "value": "grow on(习惯)加深对…的影响",
+    "prefix": "g"
+  },
+  {
+    "value": "grow up成熟/成年/逐渐形成",
+    "prefix": "g"
+  },
+  {
+    "value": "guarantee against保证…不…",
+    "prefix": "g"
+  }
+]

@@ -1,0 +1,974 @@
+[
+  {
+    "value": "daily [‘deili] a.每日的 n.日报",
+    "prefix": "d"
+  },
+  {
+    "value": "dairy [‘dɛəri] n.牛奶场;乳制品",
+    "prefix": "d"
+  },
+  {
+    "value": "dam [dæm] n.水坝,水堤;障碍物",
+    "prefix": "d"
+  },
+  {
+    "value": "damage [‘dæmidʒ] vt.损害,毁坏 n.损害",
+    "prefix": "d"
+  },
+  {
+    "value": "damp [dæmp] a.潮湿的,有湿气的",
+    "prefix": "d"
+  },
+  {
+    "value": "dance [dɑ:ns] vi.跳舞;摇晃 n.舞",
+    "prefix": "d"
+  },
+  {
+    "value": "danger [‘deindʒə] n.危险;危险事物",
+    "prefix": "d"
+  },
+  {
+    "value": "dangerous [‘deindʒərəs] a.危险的,不安全的",
+    "prefix": "d"
+  },
+  {
+    "value": "dare [dɛə] vt.&aux.v.敢;竟敢",
+    "prefix": "d"
+  },
+  {
+    "value": "daring [‘deərɪŋ] a.大胆的,勇敢的",
+    "prefix": "d"
+  },
+  {
+    "value": "dark [dɑ:k] a.暗的;黑色的",
+    "prefix": "d"
+  },
+  {
+    "value": "darling [‘dɑ:liŋ] n.亲爱的人;宠儿",
+    "prefix": "d"
+  },
+  {
+    "value": "dash [dæʃ] vt.使猛撞;溅 n.猛冲",
+    "prefix": "d"
+  },
+  {
+    "value": "data [‘deitə] n.数据; 资料",
+    "prefix": "d"
+  },
+  {
+    "value": "date [deit] n.日期 vt.注…日期",
+    "prefix": "d"
+  },
+  {
+    "value": "daughter [‘dɔ:tə] n.女儿",
+    "prefix": "d"
+  },
+  {
+    "value": "dawn [dɔ:n] n.黎明;开端 vi.破晓",
+    "prefix": "d"
+  },
+  {
+    "value": "day [dei] n.(一)天,白昼,白天",
+    "prefix": "d"
+  },
+  {
+    "value": "daylight [‘deilait] n.白昼,日光;黎明",
+    "prefix": "d"
+  },
+  {
+    "value": "dead [ded] a.死的,无生命的",
+    "prefix": "d"
+  },
+  {
+    "value": "deadly [‘dedli] a.致命的,死一般的",
+    "prefix": "d"
+  },
+  {
+    "value": "deaf [def] a.聋的;不愿听的",
+    "prefix": "d"
+  },
+  {
+    "value": "deal [di:l] n.买卖;待遇 vt.给予",
+    "prefix": "d"
+  },
+  {
+    "value": "dear [diə] a.亲爱的 int.啊",
+    "prefix": "d"
+  },
+  {
+    "value": "death [deθ] n.死,死亡;灭亡",
+    "prefix": "d"
+  },
+  {
+    "value": "debate [di’beit] n.&vi.争论,辩论",
+    "prefix": "d"
+  },
+  {
+    "value": "debt [det] n.债,债务,欠债",
+    "prefix": "d"
+  },
+  {
+    "value": "decade [‘dekeid，dɪ’keɪd] n.十年,十年期",
+    "prefix": "d"
+  },
+  {
+    "value": "decay [di’kei] vi.腐烂;衰败 n.腐烂",
+    "prefix": "d"
+  },
+  {
+    "value": "deceit [di’si:t] n.欺骗,欺诈",
+    "prefix": "d"
+  },
+  {
+    "value": "deceive [di’si:v] vt.欺骗,蒙蔽,行骗",
+    "prefix": "d"
+  },
+  {
+    "value": "December [di’sembə] n.十二月",
+    "prefix": "D"
+  },
+  {
+    "value": "decent [‘di:sənt，’diːsnt] a.正派的;体面的",
+    "prefix": "d"
+  },
+  {
+    "value": "decide [di’said] vt.决定,决心;解决",
+    "prefix": "d"
+  },
+  {
+    "value": "decision [di’siʒən] n.决定,决心;果断",
+    "prefix": "d"
+  },
+  {
+    "value": "deck [dek] n.甲板;舱面;层面",
+    "prefix": "d"
+  },
+  {
+    "value": "declare [di’klɛə] vt.断言;声明;表明",
+    "prefix": "d"
+  },
+  {
+    "value": "decorate [‘dekəreit] vt.装饰,装璜,修饰",
+    "prefix": "d"
+  },
+  {
+    "value": "decrease [di:’kri:s] vi.&n.减少,减少",
+    "prefix": "d"
+  },
+  {
+    "value": "deduce [di’dju:s] vt.演绎,推论,推断",
+    "prefix": "d"
+  },
+  {
+    "value": "deed [di:d] n.行为;功绩;契约",
+    "prefix": "d"
+  },
+  {
+    "value": "deep [di:p] a.深的;纵深的",
+    "prefix": "d"
+  },
+  {
+    "value": "deepen [‘di:pən] vt.加深 vi.深化",
+    "prefix": "d"
+  },
+  {
+    "value": "deer [diə] n.鹿",
+    "prefix": "d"
+  },
+  {
+    "value": "defeat [di’fi:t] vt.战胜,击败;挫败",
+    "prefix": "d"
+  },
+  {
+    "value": "defect [di’fekt] n.缺点,缺陷,欠缺",
+    "prefix": "d"
+  },
+  {
+    "value": "defence [di’fens] n.防御;防务;辩护",
+    "prefix": "d"
+  },
+  {
+    "value": "defend [di’fend] vt.保卫,防守",
+    "prefix": "d"
+  },
+  {
+    "value": "define [di’fain] vt.给…下定义;限定",
+    "prefix": "d"
+  },
+  {
+    "value": "definite [‘definit] a.明确的;肯定的",
+    "prefix": "d"
+  },
+  {
+    "value": "definitely [‘definitli] ad.一定地,明确地",
+    "prefix": "d"
+  },
+  {
+    "value": "definition [defi’niʃən] n.定义,释义;定界",
+    "prefix": "d"
+  },
+  {
+    "value": "degree [di’ɡri:] n.程度;度;学位",
+    "prefix": "d"
+  },
+  {
+    "value": "delay [di’lei] vt.推迟;耽搁;延误",
+    "prefix": "d"
+  },
+  {
+    "value": "delete [di’li:t] vt.删除;擦掉",
+    "prefix": "d"
+  },
+  {
+    "value": "delegation [delɪ’geɪʃən] n.代表团",
+    "prefix": "d"
+  },
+  {
+    "value": "delicate [‘delikit] a.纤细的;易碎的",
+    "prefix": "d"
+  },
+  {
+    "value": "delicious [di’liʃəs] a.美味的,怡人的",
+    "prefix": "d"
+  },
+  {
+    "value": "delight [di’lait] n.快乐 vt.使高兴",
+    "prefix": "d"
+  },
+  {
+    "value": "deliver [di’livə] vt.投递,送交;发表",
+    "prefix": "d"
+  },
+  {
+    "value": "delivery [di’livəri] n.投递;交付;分娩",
+    "prefix": "d"
+  },
+  {
+    "value": "demand [di’mɑ:nd] vt.要求;需要;询问",
+    "prefix": "d"
+  },
+  {
+    "value": "democracy [di’mɔkrəsi] n.民主,民主制",
+    "prefix": "d"
+  },
+  {
+    "value": "democratic [demə’krætik] a.民主的,民主政体的",
+    "prefix": "d"
+  },
+  {
+    "value": "demonstrate [‘demənstreit] vt.说明;论证;表露",
+    "prefix": "d"
+  },
+  {
+    "value": "dense [dens] a.密集的;浓厚的",
+    "prefix": "d"
+  },
+  {
+    "value": "density [‘densiti] n.密集,稠密;密度",
+    "prefix": "d"
+  },
+  {
+    "value": "deny [di’nai] vt.否定;拒绝相信",
+    "prefix": "d"
+  },
+  {
+    "value": "depart [di’pɑ:t] vi.离开,起程;出发",
+    "prefix": "d"
+  },
+  {
+    "value": "department [di’pɑ:tmənt] n.部,司,局,处,系",
+    "prefix": "d"
+  },
+  {
+    "value": "departure [di’pɑ:tʃə，dɪ’pɑːtʃə(r)] n.离开,出发,起程",
+    "prefix": "d"
+  },
+  {
+    "value": "depend [di’pend] vi.依靠,依赖;相信",
+    "prefix": "d"
+  },
+  {
+    "value": "dependent [di’pendənt] a.依靠的,依赖的",
+    "prefix": "d"
+  },
+  {
+    "value": "deposit [di’pɔzit] vt.使沉淀;存放",
+    "prefix": "d"
+  },
+  {
+    "value": "depress [di’pres] vt.使沮丧;按下",
+    "prefix": "d"
+  },
+  {
+    "value": "depth [depθ] n.深度;深厚;深处",
+    "prefix": "d"
+  },
+  {
+    "value": "derive [di’raiv] vt.取得 vi.起源",
+    "prefix": "d"
+  },
+  {
+    "value": "descend [di’send] vi.下来,下降;下倾",
+    "prefix": "d"
+  },
+  {
+    "value": "describe [dis’kraib] vt.形容;描写,描绘",
+    "prefix": "d"
+  },
+  {
+    "value": "description [dis’kripʃn] n.描写,形容;种类",
+    "prefix": "d"
+  },
+  {
+    "value": "desert [‘dezət] n.沙漠 vt.离弃;擅离",
+    "prefix": "d"
+  },
+  {
+    "value": "deserve [di’zə:v] vt.应受,值得",
+    "prefix": "d"
+  },
+  {
+    "value": "design [di’zain] vt.设计 n.设计;图样",
+    "prefix": "d"
+  },
+  {
+    "value": "desirable [di’zaiərəbl] a.值得相望的;可取的",
+    "prefix": "d"
+  },
+  {
+    "value": "desire [di’zaiə] vt.渴望;要求 n.愿望",
+    "prefix": "d"
+  },
+  {
+    "value": "desk [desk] n.书桌,办公桌",
+    "prefix": "d"
+  },
+  {
+    "value": "despair [dis’pɛə] n.绝望 vi.绝望",
+    "prefix": "d"
+  },
+  {
+    "value": "desperate [‘despərit] a.拼死的;绝望的",
+    "prefix": "d"
+  },
+  {
+    "value": "despise [dis’paiz] vt.鄙视,蔑视",
+    "prefix": "d"
+  },
+  {
+    "value": "despite [dis’pait] prep.不管,不顾",
+    "prefix": "d"
+  },
+  {
+    "value": "destination [desti’neiʃən] n.目的地,终点;目标",
+    "prefix": "d"
+  },
+  {
+    "value": "destroy [dis’trɔi] vt.破坏;消灭;打破",
+    "prefix": "d"
+  },
+  {
+    "value": "destruction [dis’trʌkʃən] n.破坏,毁灭,消灭",
+    "prefix": "d"
+  },
+  {
+    "value": "detail [‘di:teil] n.细节;枝节;零件",
+    "prefix": "d"
+  },
+  {
+    "value": "detect [di’tekt] vt.察觉,发觉;侦察",
+    "prefix": "d"
+  },
+  {
+    "value": "detection [di’tekʃən] n.察觉,发觉;侦察",
+    "prefix": "d"
+  },
+  {
+    "value": "determination [ditə:mi’neiʃən] n.决心;决定;确定",
+    "prefix": "d"
+  },
+  {
+    "value": "determine [di’tə:min] vt.决定;查明;决心",
+    "prefix": "d"
+  },
+  {
+    "value": "develop [di’veləp] vt.发展;形成;开发",
+    "prefix": "d"
+  },
+  {
+    "value": "development [di’veləpmənt] n.发展;开发;生长",
+    "prefix": "d"
+  },
+  {
+    "value": "device [di’vais] n.器械,装置;设计",
+    "prefix": "d"
+  },
+  {
+    "value": "devil [‘devl] n.魔鬼,恶魔",
+    "prefix": "d"
+  },
+  {
+    "value": "devise [di’vaiz] vt.设计,发明",
+    "prefix": "d"
+  },
+  {
+    "value": "devote [di’vəut] vt.将…奉献,致力于",
+    "prefix": "d"
+  },
+  {
+    "value": "dew [dju:] n.露,露水",
+    "prefix": "d"
+  },
+  {
+    "value": "diagram [‘daiəɡræm] n.图解,图表,简图",
+    "prefix": "d"
+  },
+  {
+    "value": "dial [‘daiəl] n.钟面;拨号盘 vt.拨",
+    "prefix": "d"
+  },
+  {
+    "value": "dialect [‘daiəlekt] n.方言,土语,地方话",
+    "prefix": "d"
+  },
+  {
+    "value": "dialog [‘daiəlɔɡ] n.对话,对白",
+    "prefix": "d"
+  },
+  {
+    "value": "diameter [dai’æmitə] n.直径",
+    "prefix": "d"
+  },
+  {
+    "value": "diamond [‘daiəmənd] n.金钢石,钻石;菱形",
+    "prefix": "d"
+  },
+  {
+    "value": "diary [‘daiəri] n.日记,日记簿",
+    "prefix": "d"
+  },
+  {
+    "value": "dictate [dik’teit] vt.&vi.口授;命令",
+    "prefix": "d"
+  },
+  {
+    "value": "dictation [dik’teiʃən] n.口授笔录,听写",
+    "prefix": "d"
+  },
+  {
+    "value": "dictionary [‘dikʃənəri] n.词典,字典",
+    "prefix": "d"
+  },
+  {
+    "value": "die [dai] vi.死,死亡;灭亡",
+    "prefix": "d"
+  },
+  {
+    "value": "differ [‘difə] vi.不同,相异",
+    "prefix": "d"
+  },
+  {
+    "value": "difference [‘difərəns] n.差别;差;分歧",
+    "prefix": "d"
+  },
+  {
+    "value": "different [‘difərənt] a.差异的;各种的",
+    "prefix": "d"
+  },
+  {
+    "value": "difficult [‘difikəlt] a.困难的;难对付的",
+    "prefix": "d"
+  },
+  {
+    "value": "difficulty [‘difikəlti] a.困难;难事;困境",
+    "prefix": "d"
+  },
+  {
+    "value": "dig [diɡ] vt.掘,挖;采掘",
+    "prefix": "d"
+  },
+  {
+    "value": "digest [dai’dʒest] vt.消化;领会 n.文摘",
+    "prefix": "d"
+  },
+  {
+    "value": "digital [‘didʒitəl] a.数字的,计数的",
+    "prefix": "d"
+  },
+  {
+    "value": "diligent [‘dilidʒənt] a.勤勉的,勤奋的",
+    "prefix": "d"
+  },
+  {
+    "value": "dim [dim] a.昏暗的;朦胧的",
+    "prefix": "d"
+  },
+  {
+    "value": "dimension [di’menʃən] n.尺寸,尺度;面积",
+    "prefix": "d"
+  },
+  {
+    "value": "dinner [‘dinə] n.正餐,主餐;宴会",
+    "prefix": "d"
+  },
+  {
+    "value": "dip [dip] vt.浸,蘸 vi.浸一浸",
+    "prefix": "d"
+  },
+  {
+    "value": "direct [di’rekt] a.直接的;直率的",
+    "prefix": "d"
+  },
+  {
+    "value": "direction [di’rekʃən] n.方向,方位;指导",
+    "prefix": "d"
+  },
+  {
+    "value": "directly [di’rektli] ad.直接地;立即",
+    "prefix": "d"
+  },
+  {
+    "value": "director [di’rektə，də’rektə(r)，daɪ-] n.指导者;理事;导演",
+    "prefix": "d"
+  },
+  {
+    "value": "dirt [də:t] n.尘,土;污物,污垢",
+    "prefix": "d"
+  },
+  {
+    "value": "dirty [‘də:ti] a.脏的;下流的",
+    "prefix": "d"
+  },
+  {
+    "value": "disable [dis’eibl] vt.使无能,使伤残",
+    "prefix": "d"
+  },
+  {
+    "value": "disadvantage [disəd’vɑ:ntidʒ] n.不利,不利地位",
+    "prefix": "d"
+  },
+  {
+    "value": "disagree [disə’ɡri:] vi.有分歧;不一致",
+    "prefix": "d"
+  },
+  {
+    "value": "disappear [disə’piə] vi.不见,失踪;消失",
+    "prefix": "d"
+  },
+  {
+    "value": "disappoint [disə’pɔint] vt.使失望,使受挫折",
+    "prefix": "d"
+  },
+  {
+    "value": "disaster [di’zɑ:stə] n.灾难,灾祸;天灾",
+    "prefix": "d"
+  },
+  {
+    "value": "disk [disk] n.圆盘,唱片;磁盘",
+    "prefix": "d"
+  },
+  {
+    "value": "discard [dis’kɑ:d] vt.丢弃,抛弃,遗弃",
+    "prefix": "d"
+  },
+  {
+    "value": "discharge [dis’tʃɑ:dʒ] vt.释放;排出 n.释放",
+    "prefix": "d"
+  },
+  {
+    "value": "discipline [‘disiplin] n.纪律;训练 vt.训练",
+    "prefix": "d"
+  },
+  {
+    "value": "disclose [dis’kləuz] vt.揭开,揭发;透露",
+    "prefix": "d"
+  },
+  {
+    "value": "discourage [dis’kʌridʒ] vt.使泄气,使灰心",
+    "prefix": "d"
+  },
+  {
+    "value": "discover [dis’kʌvə] vt.发现;暴露,显示",
+    "prefix": "d"
+  },
+  {
+    "value": "discovery [dis’kʌvəri] n.发现;被发现的事物",
+    "prefix": "d"
+  },
+  {
+    "value": "discuss [dis’kʌs] vt.讨论,谈论;论述",
+    "prefix": "d"
+  },
+  {
+    "value": "discussion [dis’kʌʃən] n.讨论,谈论;论述",
+    "prefix": "d"
+  },
+  {
+    "value": "disease [di’zi:z] n.病,疾病;病害",
+    "prefix": "d"
+  },
+  {
+    "value": "disguise [dis’ɡaiz] vi.隐瞒,掩埋 n.假装",
+    "prefix": "d"
+  },
+  {
+    "value": "disgust [dis’ɡʌst] n.厌恶,憎恶",
+    "prefix": "d"
+  },
+  {
+    "value": "dish [diʃ] n.碟,盘子;菜肴",
+    "prefix": "d"
+  },
+  {
+    "value": "dishonour [dis’ɔnə] n.不光彩;丢脸的人",
+    "prefix": "d"
+  },
+  {
+    "value": "dislike [dis’laik] vt.&n.不喜爱,厌恶",
+    "prefix": "d"
+  },
+  {
+    "value": "dismiss [dis’mis] vt.不再考虑;解雇",
+    "prefix": "d"
+  },
+  {
+    "value": "disorder [dis’ɔ:də] n.混乱,杂乱;骚乱",
+    "prefix": "d"
+  },
+  {
+    "value": "display [dis’plei] vt.陈列,展览;显示",
+    "prefix": "d"
+  },
+  {
+    "value": "disposal [dis’pəuzəl] n.丢掉,处理,销毁",
+    "prefix": "d"
+  },
+  {
+    "value": "dispose [dis’pəuz] vi.去掉,丢掉;销毁",
+    "prefix": "d"
+  },
+  {
+    "value": "displease [dɪs’pli:z] vt.使不愉快,使生气",
+    "prefix": "d"
+  },
+  {
+    "value": "dispute [dis’pju:t] vi.争论,争执 n.争论",
+    "prefix": "d"
+  },
+  {
+    "value": "dissatisfy [dɪs’sætɪsfaɪ] vi.使不满,使不平",
+    "prefix": "d"
+  },
+  {
+    "value": "dissolve [di‘zɔlv] vt.使溶解;解散",
+    "prefix": "d"
+  },
+  {
+    "value": "distance [‘distəns] n.距离,间距;远处",
+    "prefix": "d"
+  },
+  {
+    "value": "distant [‘distənt] a.在远处的,疏远的",
+    "prefix": "d"
+  },
+  {
+    "value": "distinct [dis’tiŋkt] a.与其他不同的",
+    "prefix": "d"
+  },
+  {
+    "value": "distinction [dis’tiŋkʃən] n.差别,不同,区分",
+    "prefix": "d"
+  },
+  {
+    "value": "distinguish [dis’tiŋɡwiʃ] vt.区别,辨别,认别",
+    "prefix": "d"
+  },
+  {
+    "value": "distress [dis’tres] n.忧虑,悲伤;不幸",
+    "prefix": "d"
+  },
+  {
+    "value": "distribute [dis’tribju:t] vt.分发,分送;分布",
+    "prefix": "d"
+  },
+  {
+    "value": "distribution [distri’bju:ʃən] n.分发,分配;分布",
+    "prefix": "d"
+  },
+  {
+    "value": "district [‘distrikt] n.区;地区,区域",
+    "prefix": "d"
+  },
+  {
+    "value": "disturb [dis’tə:b] vt.打扰,扰乱;弄乱",
+    "prefix": "d"
+  },
+  {
+    "value": "ditch [ditʃ] n.沟,沟渠,渠道",
+    "prefix": "d"
+  },
+  {
+    "value": "dive [daiv] vi.跳水;潜水;俯冲",
+    "prefix": "d"
+  },
+  {
+    "value": "diverse [dai’vəs，daɪ’vɜːs] a.不一样的,相异的",
+    "prefix": "d"
+  },
+  {
+    "value": "divide [di’vaid] vt.分;分配;分开",
+    "prefix": "d"
+  },
+  {
+    "value": "division [di’viʒən] n.分,分配;除法",
+    "prefix": "d"
+  },
+  {
+    "value": "divorce [di’vɔ:sei] n.离婚,离异 vi.离婚",
+    "prefix": "d"
+  },
+  {
+    "value": "do [du:, du, də, d] aux.v. vt.做,干,办",
+    "prefix": "d"
+  },
+  {
+    "value": "dock [dɔk] n.船坞;码头;船厂",
+    "prefix": "d"
+  },
+  {
+    "value": "doctor [‘dɔktə] n.医生,医师;博士",
+    "prefix": "d"
+  },
+  {
+    "value": "document [‘dɔkjumənt] n.公文,文件;证件",
+    "prefix": "d"
+  },
+  {
+    "value": "dog [dɔɡ] n.狗,犬,犬科动物",
+    "prefix": "d"
+  },
+  {
+    "value": "dollar [‘dɔlə] n.元(货币单位)",
+    "prefix": "d"
+  },
+  {
+    "value": "domestic [də’mestik] a.本国的;家庭的",
+    "prefix": "d"
+  },
+  {
+    "value": "donkey ['dɔŋki] n.驴;笨蛋",
+    "prefix": "d"
+  },
+  {
+    "value": "door [dɔ:] n.门,通道;一家",
+    "prefix": "d"
+  },
+  {
+    "value": "dorm [dɔ:m] n.宿舍",
+    "prefix": "d"
+  },
+  {
+    "value": "dormitory [‘dɔ:mitri] n.集体寝室;宿舍",
+    "prefix": "d"
+  },
+  {
+    "value": "dose [dəus] n.剂量,用量;一剂",
+    "prefix": "d"
+  },
+  {
+    "value": "dot [dɔt] n.点,圆点 vt.打点于",
+    "prefix": "d"
+  },
+  {
+    "value": "double [‘dʌbl] a.两倍的;双的",
+    "prefix": "d"
+  },
+  {
+    "value": "doubt [daut] n.怀疑;疑虑 vt.怀疑",
+    "prefix": "d"
+  },
+  {
+    "value": "doubtful [‘dautful] a.难以预测的;怀疑的",
+    "prefix": "d"
+  },
+  {
+    "value": "doubtless [‘dautlis] ad.无疑地;很可能",
+    "prefix": "d"
+  },
+  {
+    "value": "down [daun] ad.向下,在下面",
+    "prefix": "d"
+  },
+  {
+    "value": "downstairs [‘daun’stɛəz] ad.在楼下 a.楼下的",
+    "prefix": "d"
+  },
+  {
+    "value": "downward [‘daunwəd] a.向下的 ad.向下地",
+    "prefix": "d"
+  },
+  {
+    "value": "dozen [‘dʌzn] n.一打,十二个",
+    "prefix": "d"
+  },
+  {
+    "value": "draft [drɑ:ft] n.草稿;汇票 vt.起草",
+    "prefix": "d"
+  },
+  {
+    "value": "drag [dræɡ] vt.拖,拉;拖曳",
+    "prefix": "d"
+  },
+  {
+    "value": "dragon [‘dræɡən] n.龙;凶暴的人",
+    "prefix": "d"
+  },
+  {
+    "value": "drain [drein] vt.排去;放水 n.耗竭",
+    "prefix": "d"
+  },
+  {
+    "value": "drama [‘drɑ:mə] n.一出戏剧,剧本",
+    "prefix": "d"
+  },
+  {
+    "value": "dramatic [drə’mætik] a.引人注目的,戏剧的",
+    "prefix": "d"
+  },
+  {
+    "value": "draw vt [drɔ:].画,划;拖;拨出",
+    "prefix": "d"
+  },
+  {
+    "value": "drawer [drɔ:] n.抽屉",
+    "prefix": "d"
+  },
+  {
+    "value": "drawing [‘drɔ:ɪŋ] n.图画,素描;绘图",
+    "prefix": "d"
+  },
+  {
+    "value": "dread [dred] n.畏惧;恐怖 vt.惧怕",
+    "prefix": "d"
+  },
+  {
+    "value": "dream [dri:m] n.梦;梦想 vi.做梦",
+    "prefix": "d"
+  },
+  {
+    "value": "dress [dres] n.女服,童装;服装",
+    "prefix": "d"
+  },
+  {
+    "value": "drift [drift] vi.漂流,漂泊 n.漂流",
+    "prefix": "d"
+  },
+  {
+    "value": "drill [dril] n.钻头;操练 vi.钻孔",
+    "prefix": "d"
+  },
+  {
+    "value": "drink [driŋk] vt.饮 vi.喝 n.饮料",
+    "prefix": "d"
+  },
+  {
+    "value": "drip [drip] vi.滴下;漏水 n.水滴",
+    "prefix": "d"
+  },
+  {
+    "value": "drive [draiv] vt.驾驶;打入;驱",
+    "prefix": "d"
+  },
+  {
+    "value": "driver [‘draivə] n.驾驶员,司机",
+    "prefix": "d"
+  },
+  {
+    "value": "drop [drɔp] vt.使落下;降低",
+    "prefix": "d"
+  },
+  {
+    "value": "drought [draut] n.旱灾,干旱",
+    "prefix": "d"
+  },
+  {
+    "value": "drown [draun] vi.淹死,溺死",
+    "prefix": "d"
+  },
+  {
+    "value": "drug [drʌɡ] n.药,药物,药材",
+    "prefix": "d"
+  },
+  {
+    "value": "drum [drʌm] n.鼓;鼓状物,圆桶",
+    "prefix": "d"
+  },
+  {
+    "value": "drunk [drʌŋk] a.醉的;陶醉的",
+    "prefix": "d"
+  },
+  {
+    "value": "dry [drai] a.干的,干燥的",
+    "prefix": "d"
+  },
+  {
+    "value": "duck [dʌk] n.鸭,雌鸭;鸭肉",
+    "prefix": "d"
+  },
+  {
+    "value": "due [dju:] a.预期的;应给的",
+    "prefix": "d"
+  },
+  {
+    "value": "dull [dʌl] a.枯燥的;不鲜明的",
+    "prefix": "d"
+  },
+  {
+    "value": "dumb [dʌm] a.哑的;无言的",
+    "prefix": "d"
+  },
+  {
+    "value": "dump [dʌmp] vt.倾卸,倾倒;倾销",
+    "prefix": "d"
+  },
+  {
+    "value": "durable [‘djuərəbl] a.耐久的,耐用的",
+    "prefix": "d"
+  },
+  {
+    "value": "duration [djuə’reiʃən] n.持续,持久",
+    "prefix": "d"
+  },
+  {
+    "value": "during [‘djuəriŋ] prep.在…期间",
+    "prefix": "d"
+  },
+  {
+    "value": "dusk [dʌsk] n.薄暮,黄昏,幽暗",
+    "prefix": "d"
+  },
+  {
+    "value": "dust [dʌst] n.尘土,灰尘",
+    "prefix": "d"
+  },
+  {
+    "value": "duty [‘dju:ti] n.职责;责任;税",
+    "prefix": "d"
+  },
+  {
+    "value": "dwelling [‘dwelɪŋ] n.住处,寓所",
+    "prefix": "d"
+  },
+  {
+    "value": "dye [dai] vt.染 n.染料;染色",
+    "prefix": "d"
+  },
+  {
+    "value": "dying [‘daɪɪŋ] a.垂死的;临终的",
+    "prefix": "d"
+  },
+  {
+    "value": "dynamic [dai’næmik] a.有活力的;动力的",
+    "prefix": "d"
+  }
+]

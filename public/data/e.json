@@ -1,0 +1,1570 @@
+[
+  {
+    "value": "eager/ ‘i:gə/ a.渴望的，热切的",
+    "prefix": "e"
+  },
+  {
+    "value": "eagle/ ‘i:gl/ n.鹰",
+    "prefix": "e"
+  },
+  {
+    "value": "ear/ iə/ n.耳朵;听力，听觉",
+    "prefix": "e"
+  },
+  {
+    "value": "early/ ‘ə:li/ ad.早 a.早的，早期的",
+    "prefix": "e"
+  },
+  {
+    "value": "earn/ ə:n/ vt.赚得，挣得;获得",
+    "prefix": "e"
+  },
+  {
+    "value": "earnest/ ‘ə:nist/ a.认真的，诚恳的",
+    "prefix": "e"
+  },
+  {
+    "value": "earth/ ə:θ/ n.地球;陆地，地面",
+    "prefix": "e"
+  },
+  {
+    "value": "earthquake/ ‘ə:θkweik/ n.地震;大震荡",
+    "prefix": "e"
+  },
+  {
+    "value": "ease/ i:z/ n.容易，舒适 vt.缓和",
+    "prefix": "e"
+  },
+  {
+    "value": "east/ i:st/ n.东;东部 ad.在东方",
+    "prefix": "e"
+  },
+  {
+    "value": "eastern/ ‘i:stən/ a.东方的;朝东的",
+    "prefix": "e"
+  },
+  {
+    "value": "easy/ ‘i:zi/ a.容易的;安逸的",
+    "prefix": "e"
+  },
+  {
+    "value": "eat/ i:t/ vt.吃，喝 vi.吃饭",
+    "prefix": "e"
+  },
+  {
+    "value": "echo/ ‘ekəu/ n.回声，反响 vi.重复",
+    "prefix": "e"
+  },
+  {
+    "value": "econɔmic/ i:kə’nɔmik/ a.经济的，经济学的",
+    "prefix": "e"
+  },
+  {
+    "value": "economical/ i:kə’nɔmikəl/ a.节约的;经济学的",
+    "prefix": "e"
+  },
+  {
+    "value": "economy/ i(:)’kɔnəmi/ n.经济;节约，节省",
+    "prefix": "e"
+  },
+  {
+    "value": "edge/ edʒ/ n.边缘，边;刀口",
+    "prefix": "e"
+  },
+  {
+    "value": "edition/ i’diʃən/ n.版，版本，版次",
+    "prefix": "e"
+  },
+  {
+    "value": "editor/ ‘editə/ n.编辑，编者，校订者",
+    "prefix": "e"
+  },
+  {
+    "value": "educate/ ‘edju(:)keit/ vt.教育;培养;训练",
+    "prefix": "e"
+  },
+  {
+    "value": "education/ edju:’keiʃən/ n.教育;训导;教育学",
+    "prefix": "e"
+  },
+  {
+    "value": "effect/ i’fekt/ n.结果;效果，效力",
+    "prefix": "e"
+  },
+  {
+    "value": "effective/ i’fektiv/ a.有效的;有影响的",
+    "prefix": "e"
+  },
+  {
+    "value": "efficiency/ i’fiʃənsi/ n.效率;功效，效能",
+    "prefix": "e"
+  },
+  {
+    "value": "efficient/ i’fiʃənt/ a.效率高的，有能力的",
+    "prefix": "e"
+  },
+  {
+    "value": "effort/ ‘efət/ n.努力;努力的成果",
+    "prefix": "e"
+  },
+  {
+    "value": "egg/ eg/ n.蛋，鸡蛋，卵",
+    "prefix": "e"
+  },
+  {
+    "value": "eight/ eit/ num.八，八个，第八",
+    "prefix": "e"
+  },
+  {
+    "value": "eighteen/ ‘ei’ti:n/ num.十八，十八个",
+    "prefix": "e"
+  },
+  {
+    "value": "eighth/ eitθ/ num.第八 n.八分之一",
+    "prefix": "e"
+  },
+  {
+    "value": "eighty/ ‘eiti/ num.八十，八十个",
+    "prefix": "e"
+  },
+  {
+    "value": "either/ ‘aiðə, ‘i:ðə/ pron.(两者)任何一个",
+    "prefix": "e"
+  },
+  {
+    "value": "elaborate/ i’læbərit/ a.复杂的;精心制作的",
+    "prefix": "e"
+  },
+  {
+    "value": "elastic/ i’læstik/ n.松紧带 a.有弹性的",
+    "prefix": "e"
+  },
+  {
+    "value": "elder/ ‘eldə/ a.年龄较大的 n.长者",
+    "prefix": "e"
+  },
+  {
+    "value": "elect/ i’lekt/ vt.选举，推选;选择",
+    "prefix": "e"
+  },
+  {
+    "value": "election/ i’lekʃən/ n.选举，选择权;当选",
+    "prefix": "e"
+  },
+  {
+    "value": "electric/ i’lektrik/ a.电的，电动的",
+    "prefix": "e"
+  },
+  {
+    "value": "electrical/ i’lektrikəl/ a.电的，电气科学的",
+    "prefix": "e"
+  },
+  {
+    "value": "electricity/ ilek’trisiti/ n.电，电学;电流",
+    "prefix": "e"
+  },
+  {
+    "value": "electron/ i’lektrɔn/ n.电子",
+    "prefix": "e"
+  },
+  {
+    "value": "electronic/ ilek’trɔnik/ a.电子的",
+    "prefix": "e"
+  },
+  {
+    "value": "element/ ‘elimənt/ n.成分;要素;元素",
+    "prefix": "e"
+  },
+  {
+    "value": "elementary/ eli’mentəri/ a.基本的;初级的",
+    "prefix": "e"
+  },
+  {
+    "value": "elephant/ ‘elifənt/ n.象",
+    "prefix": "e"
+  },
+  {
+    "value": "elevator/ ‘eliveitə/ n.电梯;升降机",
+    "prefix": "e"
+  },
+  {
+    "value": "eleven/ i’levn/ num.十一，十一个",
+    "prefix": "e"
+  },
+  {
+    "value": "eliminate/ i’limineit/ vt.消灭，消除，排除",
+    "prefix": "e"
+  },
+  {
+    "value": "else/ els/ ad.其它，另外 a.别的",
+    "prefix": "e"
+  },
+  {
+    "value": "elsewhere/ els’weə/ ad.在别处，向别处",
+    "prefix": "e"
+  },
+  {
+    "value": "embarrass/ im’bærəs/ vt.使窘迫，使为难",
+    "prefix": "e"
+  },
+  {
+    "value": "embrace/ im’breis/ vt.拥抱;包括;包围",
+    "prefix": "e"
+  },
+  {
+    "value": "emerge/ i’mə:dʒ/ vi.出现，涌现;冒出",
+    "prefix": "e"
+  },
+  {
+    "value": "emergency/ i’mə:dʒənsi/ n.紧急情况，突然事件",
+    "prefix": "e"
+  },
+  {
+    "value": "emit/ i’mit/ vt.散发;发射;发表",
+    "prefix": "e"
+  },
+  {
+    "value": "emotion/ i’məuʃən/ n.情感，感情;激动",
+    "prefix": "e"
+  },
+  {
+    "value": "emotional/ i’məuʃənl/ a.感情的，情绪的",
+    "prefix": "e"
+  },
+  {
+    "value": "emperor/ ‘empərə/ n.皇帝",
+    "prefix": "e"
+  },
+  {
+    "value": "emphasis/ ‘emfəsis/ n.强调，重点，重要性",
+    "prefix": "e"
+  },
+  {
+    "value": "emphasize/ ‘emfəsaiz/ vt.强调，着重",
+    "prefix": "e"
+  },
+  {
+    "value": "empire/ ‘empaiə/ n.帝国",
+    "prefix": "e"
+  },
+  {
+    "value": "employ/ im’plɔi/ vi.雇用;用;使忙于",
+    "prefix": "e"
+  },
+  {
+    "value": "employee/ emplɔi’i:/ n.受雇者，雇员，雇工",
+    "prefix": "e"
+  },
+  {
+    "value": "employer/ im’plɔiə/ n.雇佣者，雇主",
+    "prefix": "e"
+  },
+  {
+    "value": "employment/ im’plɔimənt/ n.工业;雇用;使用",
+    "prefix": "e"
+  },
+  {
+    "value": "empty/ ‘empti/ a.空的;空洞的",
+    "prefix": "e"
+  },
+  {
+    "value": "enable/ i’neibl/ vt.使能够，使可能",
+    "prefix": "e"
+  },
+  {
+    "value": "enclose/ in’kləuz/ vt.围住，圈起;附上",
+    "prefix": "e"
+  },
+  {
+    "value": "encounter/ in’kauntə/ vt.遭遇，遇到 n.遭遇",
+    "prefix": "e"
+  },
+  {
+    "value": "encourage/ in’kΛridʒ/ vt.鼓励，支持，助长",
+    "prefix": "e"
+  },
+  {
+    "value": "end/ end/ n.末端;目标 vt.结束",
+    "prefix": "e"
+  },
+  {
+    "value": "ending/ ‘endiŋ/ n.结尾，结局;死亡",
+    "prefix": "e"
+  },
+  {
+    "value": "endless/ ‘endlis/ a.无止境的",
+    "prefix": "e"
+  },
+  {
+    "value": "endure/ in’djuə/ vt.忍受;容忍",
+    "prefix": "e"
+  },
+  {
+    "value": "enemy/ ‘enimi/ n.敌人;仇敌;敌兵",
+    "prefix": "e"
+  },
+  {
+    "value": "energy/ ‘enədʒi/ n.活力;精力;能",
+    "prefix": "e"
+  },
+  {
+    "value": "enforce/ in’fɔ:s/ vt.实施，执行;强制",
+    "prefix": "e"
+  },
+  {
+    "value": "engage/ in’geidʒ/ vt.使从事于;聘用",
+    "prefix": "e"
+  },
+  {
+    "value": "engine/ ‘endʒin/ n. 发动机，引擎;机车",
+    "prefix": "e"
+  },
+  {
+    "value": "engineer/ endʒi’niə/ n.工程师，技师",
+    "prefix": "e"
+  },
+  {
+    "value": "engineering/ endʒi’niəriŋ/ n.工程，工程学",
+    "prefix": "e"
+  },
+  {
+    "value": "enlarge/ in’la:dʒ/ vt.扩大，扩展;放大",
+    "prefix": "e"
+  },
+  {
+    "value": "enormous/ i’nɔ:məs/ a.巨大的，庞大的",
+    "prefix": "e"
+  },
+  {
+    "value": "enough/ i’nΛf/ a.足够的 ad.足够地",
+    "prefix": "e"
+  },
+  {
+    "value": "enquire/ in’kwaiə/ vi.vt. 询问",
+    "prefix": "e"
+  },
+  {
+    "value": "enquiry/ / n. 询问",
+    "prefix": "e"
+  },
+  {
+    "value": "ensure/ in’ʃuə/ vt.保证;保护;赋予",
+    "prefix": "e"
+  },
+  {
+    "value": "entertain/ entə’tein/ vt.使欢乐;招待",
+    "prefix": "e"
+  },
+  {
+    "value": "enthusiasm/ in’θju:ziæzəm/ n.热情，热心，热忱",
+    "prefix": "e"
+  },
+  {
+    "value": "entitle/ in’taitl/ vt.给…权利(或资格)",
+    "prefix": "e"
+  },
+  {
+    "value": "entry/ ‘entri/ n.入口处;登记;进入",
+    "prefix": "e"
+  },
+  {
+    "value": "environment/ in’vaiərənmənt/ n.环境，外界;围绕",
+    "prefix": "e"
+  },
+  {
+    "value": "envy/ ‘envi/ vt.&n.妒忌;羡慕",
+    "prefix": "e"
+  },
+  {
+    "value": "equal/ ‘i:kwəl/ a.相等的;平等的",
+    "prefix": "e"
+  },
+  {
+    "value": "equality/ i(:)’kwɔliti/ n.等同，平等;相等",
+    "prefix": "e"
+  },
+  {
+    "value": "equation/ i’kweiʃən/ n.方程(式);等式",
+    "prefix": "e"
+  },
+  {
+    "value": "equip/ i’kwip/ vt.装备，配备",
+    "prefix": "e"
+  },
+  {
+    "value": "equipment/ i’kwipmənt/ n.装备，设备，配备",
+    "prefix": "e"
+  },
+  {
+    "value": "equivalent/ i’kwivələnt/ a.相等的;等量的",
+    "prefix": "e"
+  },
+  {
+    "value": "era/ ‘iərə/ n.时代，年代;纪元",
+    "prefix": "e"
+  },
+  {
+    "value": "erect/ i’rekt/ vt.建造;使竖立",
+    "prefix": "e"
+  },
+  {
+    "value": "error/ ‘erə/ n.错误，谬误;差错",
+    "prefix": "e"
+  },
+  {
+    "value": "escape/ is’keip/ vi.逃跑;逸出 n.逃跑",
+    "prefix": "e"
+  },
+  {
+    "value": "especially/ is’peʃəli/ ad.特别，尤其，格外",
+    "prefix": "e"
+  },
+  {
+    "value": "essay/ ‘esei/ n.短文，散文，小品文",
+    "prefix": "e"
+  },
+  {
+    "value": "essential/ i’senʃəl/ a.必要的，本质的",
+    "prefix": "e"
+  },
+  {
+    "value": "establish/ is’tæbliʃ/ vt.建立，设立;确立",
+    "prefix": "e"
+  },
+  {
+    "value": "establishment/ is’tæbliʃmənt/ n.建立，设立，确立",
+    "prefix": "e"
+  },
+  {
+    "value": "estimate/ ‘estimit, ‘estimeit/ vt.估计，评价 n.估计",
+    "prefix": "e"
+  },
+  {
+    "value": "əurope/ ‘juərəp/ n.欧洲",
+    "prefix": "ə"
+  },
+  {
+    "value": "əuropean/ juərə’pi:ən/ a.欧洲的 n.欧洲人",
+    "prefix": "ə"
+  },
+  {
+    "value": "evaluate/ i’væljueit/ vt.评价，估…的价",
+    "prefix": "e"
+  },
+  {
+    "value": "evaporate/ i’væpəreit/ vt.使蒸发 vi.蒸发",
+    "prefix": "e"
+  },
+  {
+    "value": "eve/ i:v/ n.前夜，前夕，前一刻",
+    "prefix": "e"
+  },
+  {
+    "value": "even/ ‘i:vən/ ad.甚至;甚至更，还",
+    "prefix": "e"
+  },
+  {
+    "value": "even/ ‘i:vən/ a.均匀的;平的",
+    "prefix": "e"
+  },
+  {
+    "value": "evening/ ‘i:vniŋ/ n.傍晚，黄昏，晚上",
+    "prefix": "e"
+  },
+  {
+    "value": "event/ i’vent/ n.事件，大事;事变",
+    "prefix": "e"
+  },
+  {
+    "value": "eventually/ i’ventjuəli/ ad.终于;最后",
+    "prefix": "e"
+  },
+  {
+    "value": "ever/ ‘evə/ ad.在任何时候;曾经",
+    "prefix": "e"
+  },
+  {
+    "value": "every/ ‘evri/ a.每一的;每隔…的",
+    "prefix": "e"
+  },
+  {
+    "value": "everybody/ ‘evribɔdi/ pron.每人，人人",
+    "prefix": "e"
+  },
+  {
+    "value": "everyday/ ‘evridei/ a.每天的，日常的",
+    "prefix": "e"
+  },
+  {
+    "value": "everyone/ ‘evriwΛn/ pron.每人，人人",
+    "prefix": "e"
+  },
+  {
+    "value": "everything/ ‘evriθiŋ/ pron.每件事，事事",
+    "prefix": "e"
+  },
+  {
+    "value": "everywhere/ ‘evriweə/ ad.到处，处处",
+    "prefix": "e"
+  },
+  {
+    "value": "evidence/ ‘evidəns/ n.根据;证据，证人",
+    "prefix": "e"
+  },
+  {
+    "value": "evident/ ‘evidənt/ a.明显的，明白的",
+    "prefix": "e"
+  },
+  {
+    "value": "evil/ ‘i:vl/ n.邪恶;祸害 a.坏的",
+    "prefix": "e"
+  },
+  {
+    "value": "evolution/ i:və’lju:ʃən/ n.进化，演化;发展",
+    "prefix": "e"
+  },
+  {
+    "value": "evolve/ i’vɔlv/ vt.使进化;使发展",
+    "prefix": "e"
+  },
+  {
+    "value": "exact/ ig’zækt/ a.确切的;精确的",
+    "prefix": "e"
+  },
+  {
+    "value": "exaggerate/ ig’zædʒəreit/ vt.&vi.夸大，夸张",
+    "prefix": "e"
+  },
+  {
+    "value": "exam/ ig’zæm/ n.考试;检查，细查",
+    "prefix": "e"
+  },
+  {
+    "value": "examination/ igzæmi’neiʃən/ n.考试;检查，细查",
+    "prefix": "e"
+  },
+  {
+    "value": "examine/ ig’zæmin/ vt.检查，仔细观察",
+    "prefix": "e"
+  },
+  {
+    "value": "example/ ig’za:mpl/ n.例子，实例;模范",
+    "prefix": "e"
+  },
+  {
+    "value": "exceed/ ik’si:d/ vt.超过，胜过;超出",
+    "prefix": "e"
+  },
+  {
+    "value": "exceedingly/ ik’si:diŋli/ ad.极端地，非常",
+    "prefix": "e"
+  },
+  {
+    "value": "excellent/ ‘eksələnt/ a.优秀的，杰出的",
+    "prefix": "e"
+  },
+  {
+    "value": "except/ ik’sept/ prep.除…之外",
+    "prefix": "e"
+  },
+  {
+    "value": "exception/ ik’sepʃən/ n.例外，除外",
+    "prefix": "e"
+  },
+  {
+    "value": "excess/ ik’ses, ‘ekses/ n.超越;过量;过度",
+    "prefix": "e"
+  },
+  {
+    "value": "excessive/ ik’sesiv/ a.过多的，极度的",
+    "prefix": "e"
+  },
+  {
+    "value": "exchange/ iks’tʃeindʒ/ vt.交换;交流 n.交换",
+    "prefix": "e"
+  },
+  {
+    "value": "excite/ ik’sait/ vt.使激动;引起",
+    "prefix": "e"
+  },
+  {
+    "value": "exciting/ ik’saitiŋ/ a.令人兴奋的",
+    "prefix": "e"
+  },
+  {
+    "value": "exclaim/ iks’kleim/ vi.呼喊;惊叫",
+    "prefix": "e"
+  },
+  {
+    "value": "exclude/ iks’klu:d/ vt.把…排除在外",
+    "prefix": "e"
+  },
+  {
+    "value": "exclusively/ iks’klu:sivli/ ad.专门地",
+    "prefix": "e"
+  },
+  {
+    "value": "excursion/ iks’kə:ʃən/ n.远足;短途旅行",
+    "prefix": "e"
+  },
+  {
+    "value": "excuse/ iks’kju:z, iks’kju:s/ vt.原谅;免除 n.借口",
+    "prefix": "e"
+  },
+  {
+    "value": "execute/ ‘eksikju:t/ vt.将…处死;实施",
+    "prefix": "e"
+  },
+  {
+    "value": "executive/ ig’zekjutiv/ a.执行的 n.执行者",
+    "prefix": "e"
+  },
+  {
+    "value": "exercise/ ‘eksəsaiz/ n.锻炼，训练 vi.练习",
+    "prefix": "e"
+  },
+  {
+    "value": "exert/ ig’zə:t/ vt.尽(力)，运用",
+    "prefix": "e"
+  },
+  {
+    "value": "exhaust/ ig’zɔ:st/ vt.使筋疲力尽;用尽",
+    "prefix": "e"
+  },
+  {
+    "value": "exhibit/ ig’zibit/ vt.显示;陈列，展览",
+    "prefix": "e"
+  },
+  {
+    "value": "exhibition/ eksi’biʃən/ n.展览，陈列;展览会",
+    "prefix": "e"
+  },
+  {
+    "value": "exist/ ig’zist/ vi.存在;生存，生活",
+    "prefix": "e"
+  },
+  {
+    "value": "existence/ ig’zistəns/ n.存在，实在;生存",
+    "prefix": "e"
+  },
+  {
+    "value": "exit/ ‘eksit/ n.出口;退场 vi.退出",
+    "prefix": "e"
+  },
+  {
+    "value": "expand/ iks’pænd/ vt.扩大;使膨胀",
+    "prefix": "e"
+  },
+  {
+    "value": "expansion/ iks’pænʃən/ n.扩大，扩充;扩张",
+    "prefix": "e"
+  },
+  {
+    "value": "expect/ iks’pekt/ vt.预料，预期;等待",
+    "prefix": "e"
+  },
+  {
+    "value": "expectation/ ekspek’teiʃən/ n.期待，期望，预期",
+    "prefix": "e"
+  },
+  {
+    "value": "expense/ iks’pens/ n.花费，消费;费用",
+    "prefix": "e"
+  },
+  {
+    "value": "expensive/ iks’pensiv/ a.昂贵的，花钱多的",
+    "prefix": "e"
+  },
+  {
+    "value": "experience/ iks’piəriəns/ n.经验，感受;经历",
+    "prefix": "e"
+  },
+  {
+    "value": "experiment/ iks’perimənt/ n.实验;试验",
+    "prefix": "e"
+  },
+  {
+    "value": "experimental/ iksperi’mentl/ a.实验的，试验的",
+    "prefix": "e"
+  },
+  {
+    "value": "expert/ ‘ekspə:t/ n.专家 a.熟练的",
+    "prefix": "e"
+  },
+  {
+    "value": "explain/ iks’plein/ vt.解释;为…辩解",
+    "prefix": "e"
+  },
+  {
+    "value": "explanation/ eksplə’neiʃən/ n.解释，说明;辩解",
+    "prefix": "e"
+  },
+  {
+    "value": "explode/ iks’pləud/ vt.使爆炸 vi.爆炸",
+    "prefix": "e"
+  },
+  {
+    "value": "explɔit/ ‘eksplɔit, iks’plɔit/ vt.剥削;利用;开拓",
+    "prefix": "e"
+  },
+  {
+    "value": "explore/ iks’plɔ:/ vt.&vi.探险，探索",
+    "prefix": "e"
+  },
+  {
+    "value": "explosion/ iks’pləuʒən/ n.爆炸，爆发，炸裂",
+    "prefix": "e"
+  },
+  {
+    "value": "explosive/ iks’pləusiv/ n.炸药 a.爆炸的",
+    "prefix": "e"
+  },
+  {
+    "value": "export/ eks’pɔ:t, ‘ekspɔ:t/ vt.输出，出口;运走",
+    "prefix": "e"
+  },
+  {
+    "value": "expose/ iks’pəuz/ vt.使暴露;揭露",
+    "prefix": "e"
+  },
+  {
+    "value": "exposure/ iks’pəuʒə/ n.暴露;揭露;曝光",
+    "prefix": "e"
+  },
+  {
+    "value": "express/ iks’pres/ vt.表示 n.快车，快递",
+    "prefix": "e"
+  },
+  {
+    "value": "expression/ iks’preʃən/ n.词句;表达;表情",
+    "prefix": "e"
+  },
+  {
+    "value": "extend/ iks’tend/ vt.延长;扩大;致",
+    "prefix": "e"
+  },
+  {
+    "value": "extension/ iks’tenʃən/ n.延长部分;伸展",
+    "prefix": "e"
+  },
+  {
+    "value": "extensive/ iks’tensiv/ a.广阔的;广泛的",
+    "prefix": "e"
+  },
+  {
+    "value": "extent/ iks’tent/ n.广度;范围;程度",
+    "prefix": "e"
+  },
+  {
+    "value": "exterior/ eks’tiəriə/ a.外部的;对外的",
+    "prefix": "e"
+  },
+  {
+    "value": "external/ eks’tə:nl/ a.外部的，外面的",
+    "prefix": "e"
+  },
+  {
+    "value": "extra/ ‘ekstrə/ a.额外的 ad.特别地",
+    "prefix": "e"
+  },
+  {
+    "value": "extraordinary/ iks’trɔ:dinəri/ a.非同寻常的，特别的",
+    "prefix": "e"
+  },
+  {
+    "value": "extreme/ iks’tri:m/ a.极度的;尽头的",
+    "prefix": "e"
+  },
+  {
+    "value": "eye/ ai/ n.眼睛;眼力;鉴赏力",
+    "prefix": "e"
+  },
+  {
+    "value": "eyesight/ ‘aisait/ n.视力，目力",
+    "prefix": "e"
+  },
+  {
+    "value": "eager/ ‘i:gə/ a.渴望的，热切的",
+    "prefix": "e"
+  },
+  {
+    "value": "eagle/ ‘i:gl/ n.鹰",
+    "prefix": "e"
+  },
+  {
+    "value": "ear/ iə/ n.耳朵;听力，听觉",
+    "prefix": "e"
+  },
+  {
+    "value": "early/ ‘ə:li/ ad.早 a.早的，早期的",
+    "prefix": "e"
+  },
+  {
+    "value": "earn/ ə:n/ vt.赚得，挣得;获得",
+    "prefix": "e"
+  },
+  {
+    "value": "earnest/ ‘ə:nist/ a.认真的，诚恳的",
+    "prefix": "e"
+  },
+  {
+    "value": "earth/ ə:θ/ n.地球;陆地，地面",
+    "prefix": "e"
+  },
+  {
+    "value": "earthquake/ ‘ə:θkweik/ n.地震;大震荡",
+    "prefix": "e"
+  },
+  {
+    "value": "ease/ i:z/ n.容易，舒适 vt.缓和",
+    "prefix": "e"
+  },
+  {
+    "value": "east/ i:st/ n.东;东部 ad.在东方",
+    "prefix": "e"
+  },
+  {
+    "value": "eastern/ ‘i:stən/ a.东方的;朝东的",
+    "prefix": "e"
+  },
+  {
+    "value": "easy/ ‘i:zi/ a.容易的;安逸的",
+    "prefix": "e"
+  },
+  {
+    "value": "eat/ i:t/ vt.吃，喝 vi.吃饭",
+    "prefix": "e"
+  },
+  {
+    "value": "echo/ ‘ekəu/ n.回声，反响 vi.重复",
+    "prefix": "e"
+  },
+  {
+    "value": "econɔmic/ i:kə’nɔmik/ a.经济的，经济学的",
+    "prefix": "e"
+  },
+  {
+    "value": "economical/ i:kə’nɔmikəl/ a.节约的;经济学的",
+    "prefix": "e"
+  },
+  {
+    "value": "economy/ i(:)’kɔnəmi/ n.经济;节约，节省",
+    "prefix": "e"
+  },
+  {
+    "value": "edge/ edʒ/ n.边缘，边;刀口",
+    "prefix": "e"
+  },
+  {
+    "value": "edition/ i’diʃən/ n.版，版本，版次",
+    "prefix": "e"
+  },
+  {
+    "value": "editor/ ‘editə/ n.编辑，编者，校订者",
+    "prefix": "e"
+  },
+  {
+    "value": "educate/ ‘edju(:)keit/ vt.教育;培养;训练",
+    "prefix": "e"
+  },
+  {
+    "value": "education/ edju:’keiʃən/ n.教育;训导;教育学",
+    "prefix": "e"
+  },
+  {
+    "value": "effect/ i’fekt/ n.结果;效果，效力",
+    "prefix": "e"
+  },
+  {
+    "value": "effective/ i’fektiv/ a.有效的;有影响的",
+    "prefix": "e"
+  },
+  {
+    "value": "efficiency/ i’fiʃənsi/ n.效率;功效，效能",
+    "prefix": "e"
+  },
+  {
+    "value": "efficient/ i’fiʃənt/ a.效率高的，有能力的",
+    "prefix": "e"
+  },
+  {
+    "value": "effort/ ‘efət/ n.努力;努力的成果",
+    "prefix": "e"
+  },
+  {
+    "value": "egg/ eg/ n.蛋，鸡蛋，卵",
+    "prefix": "e"
+  },
+  {
+    "value": "eight/ eit/ num.八，八个，第八",
+    "prefix": "e"
+  },
+  {
+    "value": "eighteen/ ‘ei’ti:n/ num.十八，十八个",
+    "prefix": "e"
+  },
+  {
+    "value": "eighth/ eitθ/ num.第八 n.八分之一",
+    "prefix": "e"
+  },
+  {
+    "value": "eighty/ ‘eiti/ num.八十，八十个",
+    "prefix": "e"
+  },
+  {
+    "value": "either/ ‘aiðə, ‘i:ðə/ pron.(两者)任何一个",
+    "prefix": "e"
+  },
+  {
+    "value": "elaborate/ i’læbərit/ a.复杂的;精心制作的",
+    "prefix": "e"
+  },
+  {
+    "value": "elastic/ i’læstik/ n.松紧带 a.有弹性的",
+    "prefix": "e"
+  },
+  {
+    "value": "elder/ ‘eldə/ a.年龄较大的 n.长者",
+    "prefix": "e"
+  },
+  {
+    "value": "elect/ i’lekt/ vt.选举，推选;选择",
+    "prefix": "e"
+  },
+  {
+    "value": "election/ i’lekʃən/ n.选举，选择权;当选",
+    "prefix": "e"
+  },
+  {
+    "value": "electric/ i’lektrik/ a.电的，电动的",
+    "prefix": "e"
+  },
+  {
+    "value": "electrical/ i’lektrikəl/ a.电的，电气科学的",
+    "prefix": "e"
+  },
+  {
+    "value": "electricity/ ilek’trisiti/ n.电，电学;电流",
+    "prefix": "e"
+  },
+  {
+    "value": "electron/ i’lektrɔn/ n.电子",
+    "prefix": "e"
+  },
+  {
+    "value": "electronic/ ilek’trɔnik/ a.电子的",
+    "prefix": "e"
+  },
+  {
+    "value": "element/ ‘elimənt/ n.成分;要素;元素",
+    "prefix": "e"
+  },
+  {
+    "value": "elementary/ eli’mentəri/ a.基本的;初级的",
+    "prefix": "e"
+  },
+  {
+    "value": "elephant/ ‘elifənt/ n.象",
+    "prefix": "e"
+  },
+  {
+    "value": "elevator/ ‘eliveitə/ n.电梯;升降机",
+    "prefix": "e"
+  },
+  {
+    "value": "eleven/ i’levn/ num.十一，十一个",
+    "prefix": "e"
+  },
+  {
+    "value": "eliminate/ i’limineit/ vt.消灭，消除，排除",
+    "prefix": "e"
+  },
+  {
+    "value": "else/ els/ ad.其它，另外 a.别的",
+    "prefix": "e"
+  },
+  {
+    "value": "elsewhere/ els’weə/ ad.在别处，向别处",
+    "prefix": "e"
+  },
+  {
+    "value": "embarrass/ im’bærəs/ vt.使窘迫，使为难",
+    "prefix": "e"
+  },
+  {
+    "value": "embrace/ im’breis/ vt.拥抱;包括;包围",
+    "prefix": "e"
+  },
+  {
+    "value": "emerge/ i’mə:dʒ/ vi.出现，涌现;冒出",
+    "prefix": "e"
+  },
+  {
+    "value": "emergency/ i’mə:dʒənsi/ n.紧急情况，突然事件",
+    "prefix": "e"
+  },
+  {
+    "value": "emit/ i’mit/ vt.散发;发射;发表",
+    "prefix": "e"
+  },
+  {
+    "value": "emotion/ i’məuʃən/ n.情感，感情;激动",
+    "prefix": "e"
+  },
+  {
+    "value": "emotional/ i’məuʃənl/ a.感情的，情绪的",
+    "prefix": "e"
+  },
+  {
+    "value": "emperor/ ‘empərə/ n.皇帝",
+    "prefix": "e"
+  },
+  {
+    "value": "emphasis/ ‘emfəsis/ n.强调，重点，重要性",
+    "prefix": "e"
+  },
+  {
+    "value": "emphasize/ ‘emfəsaiz/ vt.强调，着重",
+    "prefix": "e"
+  },
+  {
+    "value": "empire/ ‘empaiə/ n.帝国",
+    "prefix": "e"
+  },
+  {
+    "value": "employ/ im’plɔi/ vi.雇用;用;使忙于",
+    "prefix": "e"
+  },
+  {
+    "value": "employee/ emplɔi’i:/ n.受雇者，雇员，雇工",
+    "prefix": "e"
+  },
+  {
+    "value": "employer/ im’plɔiə/ n.雇佣者，雇主",
+    "prefix": "e"
+  },
+  {
+    "value": "employment/ im’plɔimənt/ n.工业;雇用;使用",
+    "prefix": "e"
+  },
+  {
+    "value": "empty/ ‘empti/ a.空的;空洞的",
+    "prefix": "e"
+  },
+  {
+    "value": "enable/ i’neibl/ vt.使能够，使可能",
+    "prefix": "e"
+  },
+  {
+    "value": "enclose/ in’kləuz/ vt.围住，圈起;附上",
+    "prefix": "e"
+  },
+  {
+    "value": "encounter/ in’kauntə/ vt.遭遇，遇到 n.遭遇",
+    "prefix": "e"
+  },
+  {
+    "value": "encourage/ in’kΛridʒ/ vt.鼓励，支持，助长",
+    "prefix": "e"
+  },
+  {
+    "value": "end/ end/ n.末端;目标 vt.结束",
+    "prefix": "e"
+  },
+  {
+    "value": "ending/ ‘endiŋ/ n.结尾，结局;死亡",
+    "prefix": "e"
+  },
+  {
+    "value": "endless/ ‘endlis/ a.无止境的",
+    "prefix": "e"
+  },
+  {
+    "value": "endure/ in’djuə/ vt.忍受;容忍",
+    "prefix": "e"
+  },
+  {
+    "value": "enemy/ ‘enimi/ n.敌人;仇敌;敌兵",
+    "prefix": "e"
+  },
+  {
+    "value": "energy/ ‘enədʒi/ n.活力;精力;能",
+    "prefix": "e"
+  },
+  {
+    "value": "enforce/ in’fɔ:s/ vt.实施，执行;强制",
+    "prefix": "e"
+  },
+  {
+    "value": "engage/ in’geidʒ/ vt.使从事于;聘用",
+    "prefix": "e"
+  },
+  {
+    "value": "engine/ ‘endʒin/ n. 发动机，引擎;机车",
+    "prefix": "e"
+  },
+  {
+    "value": "engineer/ endʒi’niə/ n.工程师，技师",
+    "prefix": "e"
+  },
+  {
+    "value": "engineering/ endʒi’niəriŋ/ n.工程，工程学",
+    "prefix": "e"
+  },
+  {
+    "value": "enlarge/ in’la:dʒ/ vt.扩大，扩展;放大",
+    "prefix": "e"
+  },
+  {
+    "value": "enormous/ i’nɔ:məs/ a.巨大的，庞大的",
+    "prefix": "e"
+  },
+  {
+    "value": "enough/ i’nΛf/ a.足够的 ad.足够地",
+    "prefix": "e"
+  },
+  {
+    "value": "enquire/ in’kwaiə/ vi.vt. 询问",
+    "prefix": "e"
+  },
+  {
+    "value": "enquiry/ / n. 询问",
+    "prefix": "e"
+  },
+  {
+    "value": "ensure/ in’ʃuə/ vt.保证;保护;赋予",
+    "prefix": "e"
+  },
+  {
+    "value": "entertain/ entə’tein/ vt.使欢乐;招待",
+    "prefix": "e"
+  },
+  {
+    "value": "enthusiasm/ in’θju:ziæzəm/ n.热情，热心，热忱",
+    "prefix": "e"
+  },
+  {
+    "value": "entitle/ in’taitl/ vt.给…权利(或资格)",
+    "prefix": "e"
+  },
+  {
+    "value": "entry/ ‘entri/ n.入口处;登记;进入",
+    "prefix": "e"
+  },
+  {
+    "value": "environment/ in’vaiərənmənt/ n.环境，外界;围绕",
+    "prefix": "e"
+  },
+  {
+    "value": "envy/ ‘envi/ vt.&n.妒忌;羡慕",
+    "prefix": "e"
+  },
+  {
+    "value": "equal/ ‘i:kwəl/ a.相等的;平等的",
+    "prefix": "e"
+  },
+  {
+    "value": "equality/ i(:)’kwɔliti/ n.等同，平等;相等",
+    "prefix": "e"
+  },
+  {
+    "value": "equation/ i’kweiʃən/ n.方程(式);等式",
+    "prefix": "e"
+  },
+  {
+    "value": "equip/ i’kwip/ vt.装备，配备",
+    "prefix": "e"
+  },
+  {
+    "value": "equipment/ i’kwipmənt/ n.装备，设备，配备",
+    "prefix": "e"
+  },
+  {
+    "value": "equivalent/ i’kwivələnt/ a.相等的;等量的",
+    "prefix": "e"
+  },
+  {
+    "value": "era/ ‘iərə/ n.时代，年代;纪元",
+    "prefix": "e"
+  },
+  {
+    "value": "erect/ i’rekt/ vt.建造;使竖立",
+    "prefix": "e"
+  },
+  {
+    "value": "error/ ‘erə/ n.错误，谬误;差错",
+    "prefix": "e"
+  },
+  {
+    "value": "escape/ is’keip/ vi.逃跑;逸出 n.逃跑",
+    "prefix": "e"
+  },
+  {
+    "value": "especially/ is’peʃəli/ ad.特别，尤其，格外",
+    "prefix": "e"
+  },
+  {
+    "value": "essay/ ‘esei/ n.短文，散文，小品文",
+    "prefix": "e"
+  },
+  {
+    "value": "essential/ i’senʃəl/ a.必要的，本质的",
+    "prefix": "e"
+  },
+  {
+    "value": "establish/ is’tæbliʃ/ vt.建立，设立;确立",
+    "prefix": "e"
+  },
+  {
+    "value": "establishment/ is’tæbliʃmənt/ n.建立，设立，确立",
+    "prefix": "e"
+  },
+  {
+    "value": "estimate/ ‘estimit, ‘estimeit/ vt.估计，评价 n.估计",
+    "prefix": "e"
+  },
+  {
+    "value": "əurope/ ‘juərəp/ n.欧洲",
+    "prefix": "ə"
+  },
+  {
+    "value": "əuropean/ juərə’pi:ən/ a.欧洲的 n.欧洲人",
+    "prefix": "ə"
+  },
+  {
+    "value": "evaluate/ i’væljueit/ vt.评价，估…的价",
+    "prefix": "e"
+  },
+  {
+    "value": "evaporate/ i’væpəreit/ vt.使蒸发 vi.蒸发",
+    "prefix": "e"
+  },
+  {
+    "value": "eve/ i:v/ n.前夜，前夕，前一刻",
+    "prefix": "e"
+  },
+  {
+    "value": "even/ ‘i:vən/ ad.甚至;甚至更，还",
+    "prefix": "e"
+  },
+  {
+    "value": "even/ ‘i:vən/ a.均匀的;平的",
+    "prefix": "e"
+  },
+  {
+    "value": "evening/ ‘i:vniŋ/ n.傍晚，黄昏，晚上",
+    "prefix": "e"
+  },
+  {
+    "value": "event/ i’vent/ n.事件，大事;事变",
+    "prefix": "e"
+  },
+  {
+    "value": "eventually/ i’ventjuəli/ ad.终于;最后",
+    "prefix": "e"
+  },
+  {
+    "value": "ever/ ‘evə/ ad.在任何时候;曾经",
+    "prefix": "e"
+  },
+  {
+    "value": "every/ ‘evri/ a.每一的;每隔…的",
+    "prefix": "e"
+  },
+  {
+    "value": "everybody/ ‘evribɔdi/ pron.每人，人人",
+    "prefix": "e"
+  },
+  {
+    "value": "everyday/ ‘evridei/ a.每天的，日常的",
+    "prefix": "e"
+  },
+  {
+    "value": "everyone/ ‘evriwΛn/ pron.每人，人人",
+    "prefix": "e"
+  },
+  {
+    "value": "everything/ ‘evriθiŋ/ pron.每件事，事事",
+    "prefix": "e"
+  },
+  {
+    "value": "everywhere/ ‘evriweə/ ad.到处，处处",
+    "prefix": "e"
+  },
+  {
+    "value": "evidence/ ‘evidəns/ n.根据;证据，证人",
+    "prefix": "e"
+  },
+  {
+    "value": "evident/ ‘evidənt/ a.明显的，明白的",
+    "prefix": "e"
+  },
+  {
+    "value": "evil/ ‘i:vl/ n.邪恶;祸害 a.坏的",
+    "prefix": "e"
+  },
+  {
+    "value": "evolution/ i:və’lju:ʃən/ n.进化，演化;发展",
+    "prefix": "e"
+  },
+  {
+    "value": "evolve/ i’vɔlv/ vt.使进化;使发展",
+    "prefix": "e"
+  },
+  {
+    "value": "exact/ ig’zækt/ a.确切的;精确的",
+    "prefix": "e"
+  },
+  {
+    "value": "exaggerate/ ig’zædʒəreit/ vt.&vi.夸大，夸张",
+    "prefix": "e"
+  },
+  {
+    "value": "exam/ ig’zæm/ n.考试;检查，细查",
+    "prefix": "e"
+  },
+  {
+    "value": "examination/ igzæmi’neiʃən/ n.考试;检查，细查",
+    "prefix": "e"
+  },
+  {
+    "value": "examine/ ig’zæmin/ vt.检查，仔细观察",
+    "prefix": "e"
+  },
+  {
+    "value": "example/ ig’za:mpl/ n.例子，实例;模范",
+    "prefix": "e"
+  },
+  {
+    "value": "exceed/ ik’si:d/ vt.超过，胜过;超出",
+    "prefix": "e"
+  },
+  {
+    "value": "exceedingly/ ik’si:diŋli/ ad.极端地，非常",
+    "prefix": "e"
+  },
+  {
+    "value": "excellent/ ‘eksələnt/ a.优秀的，杰出的",
+    "prefix": "e"
+  },
+  {
+    "value": "except/ ik’sept/ prep.除…之外",
+    "prefix": "e"
+  },
+  {
+    "value": "exception/ ik’sepʃən/ n.例外，除外",
+    "prefix": "e"
+  },
+  {
+    "value": "excess/ ik’ses, ‘ekses/ n.超越;过量;过度",
+    "prefix": "e"
+  },
+  {
+    "value": "excessive/ ik’sesiv/ a.过多的，极度的",
+    "prefix": "e"
+  },
+  {
+    "value": "exchange/ iks’tʃeindʒ/ vt.交换;交流 n.交换",
+    "prefix": "e"
+  },
+  {
+    "value": "excite/ ik’sait/ vt.使激动;引起",
+    "prefix": "e"
+  },
+  {
+    "value": "exciting/ ik’saitiŋ/ a.令人兴奋的",
+    "prefix": "e"
+  },
+  {
+    "value": "exclaim/ iks’kleim/ vi.呼喊;惊叫",
+    "prefix": "e"
+  },
+  {
+    "value": "exclude/ iks’klu:d/ vt.把…排除在外",
+    "prefix": "e"
+  },
+  {
+    "value": "exclusively/ iks’klu:sivli/ ad.专门地",
+    "prefix": "e"
+  },
+  {
+    "value": "excursion/ iks’kə:ʃən/ n.远足;短途旅行",
+    "prefix": "e"
+  },
+  {
+    "value": "excuse/ iks’kju:z, iks’kju:s/ vt.原谅;免除 n.借口",
+    "prefix": "e"
+  },
+  {
+    "value": "execute/ ‘eksikju:t/ vt.将…处死;实施",
+    "prefix": "e"
+  },
+  {
+    "value": "executive/ ig’zekjutiv/ a.执行的 n.执行者",
+    "prefix": "e"
+  },
+  {
+    "value": "exercise/ ‘eksəsaiz/ n.锻炼，训练 vi.练习",
+    "prefix": "e"
+  },
+  {
+    "value": "exert/ ig’zə:t/ vt.尽(力)，运用",
+    "prefix": "e"
+  },
+  {
+    "value": "exhaust/ ig’zɔ:st/ vt.使筋疲力尽;用尽",
+    "prefix": "e"
+  },
+  {
+    "value": "exhibit/ ig’zibit/ vt.显示;陈列，展览",
+    "prefix": "e"
+  },
+  {
+    "value": "exhibition/ eksi’biʃən/ n.展览，陈列;展览会",
+    "prefix": "e"
+  },
+  {
+    "value": "exist/ ig’zist/ vi.存在;生存，生活",
+    "prefix": "e"
+  },
+  {
+    "value": "existence/ ig’zistəns/ n.存在，实在;生存",
+    "prefix": "e"
+  },
+  {
+    "value": "exit/ ‘eksit/ n.出口;退场 vi.退出",
+    "prefix": "e"
+  },
+  {
+    "value": "expand/ iks’pænd/ vt.扩大;使膨胀",
+    "prefix": "e"
+  },
+  {
+    "value": "expansion/ iks’pænʃən/ n.扩大，扩充;扩张",
+    "prefix": "e"
+  },
+  {
+    "value": "expect/ iks’pekt/ vt.预料，预期;等待",
+    "prefix": "e"
+  },
+  {
+    "value": "expectation/ ekspek’teiʃən/ n.期待，期望，预期",
+    "prefix": "e"
+  },
+  {
+    "value": "expense/ iks’pens/ n.花费，消费;费用",
+    "prefix": "e"
+  },
+  {
+    "value": "expensive/ iks’pensiv/ a.昂贵的，花钱多的",
+    "prefix": "e"
+  },
+  {
+    "value": "experience/ iks’piəriəns/ n.经验，感受;经历",
+    "prefix": "e"
+  },
+  {
+    "value": "experiment/ iks’perimənt/ n.实验;试验",
+    "prefix": "e"
+  },
+  {
+    "value": "experimental/ iksperi’mentl/ a.实验的，试验的",
+    "prefix": "e"
+  },
+  {
+    "value": "expert/ ‘ekspə:t/ n.专家 a.熟练的",
+    "prefix": "e"
+  },
+  {
+    "value": "explain/ iks’plein/ vt.解释;为…辩解",
+    "prefix": "e"
+  },
+  {
+    "value": "explanation/ eksplə’neiʃən/ n.解释，说明;辩解",
+    "prefix": "e"
+  },
+  {
+    "value": "explode/ iks’pləud/ vt.使爆炸 vi.爆炸",
+    "prefix": "e"
+  },
+  {
+    "value": "explɔit/ ‘eksplɔit, iks’plɔit/ vt.剥削;利用;开拓",
+    "prefix": "e"
+  },
+  {
+    "value": "explore/ iks’plɔ:/ vt.&vi.探险，探索",
+    "prefix": "e"
+  },
+  {
+    "value": "explosion/ iks’pləuʒən/ n.爆炸，爆发，炸裂",
+    "prefix": "e"
+  },
+  {
+    "value": "explosive/ iks’pləusiv/ n.炸药 a.爆炸的",
+    "prefix": "e"
+  },
+  {
+    "value": "export/ eks’pɔ:t, ‘ekspɔ:t/ vt.输出，出口;运走",
+    "prefix": "e"
+  },
+  {
+    "value": "expose/ iks’pəuz/ vt.使暴露;揭露",
+    "prefix": "e"
+  },
+  {
+    "value": "exposure/ iks’pəuʒə/ n.暴露;揭露;曝光",
+    "prefix": "e"
+  },
+  {
+    "value": "express/ iks’pres/ vt.表示 n.快车，快递",
+    "prefix": "e"
+  },
+  {
+    "value": "expression/ iks’preʃən/ n.词句;表达;表情",
+    "prefix": "e"
+  },
+  {
+    "value": "extend/ iks’tend/ vt.延长;扩大;致",
+    "prefix": "e"
+  },
+  {
+    "value": "extension/ iks’tenʃən/ n.延长部分;伸展",
+    "prefix": "e"
+  },
+  {
+    "value": "extensive/ iks’tensiv/ a.广阔的;广泛的",
+    "prefix": "e"
+  },
+  {
+    "value": "extent/ iks’tent/ n.广度;范围;程度",
+    "prefix": "e"
+  },
+  {
+    "value": "exterior/ eks’tiəriə/ a.外部的;对外的",
+    "prefix": "e"
+  },
+  {
+    "value": "external/ eks’tə:nl/ a.外部的，外面的",
+    "prefix": "e"
+  },
+  {
+    "value": "extra/ ‘ekstrə/ a.额外的 ad.特别地",
+    "prefix": "e"
+  },
+  {
+    "value": "extraordinary/ iks’trɔ:dinəri/ a.非同寻常的，特别的",
+    "prefix": "e"
+  },
+  {
+    "value": "extreme/ iks’tri:m/ a.极度的;尽头的",
+    "prefix": "e"
+  },
+  {
+    "value": "eye/ ai/ n.眼睛;眼力;鉴赏力",
+    "prefix": "e"
+  },
+  {
+    "value": "eyesight/ ‘aisait/ n.视力，目力",
+    "prefix": "e"
+  }
+]

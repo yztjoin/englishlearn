@@ -1,18 +1,26 @@
 <template>
-  <div>
-    <n-space>
-      <n-button type="primary">naive-ui</n-button>
-      <n-button type="info">naive-ui</n-button>
-      <n-button type="warning">naive-ui</n-button>
-      <n-popover trigger="hover">
-        <template #trigger>
-          <n-button>悬浮</n-button>
-        </template>
-        <span>或许不想知道你的花园长得咋样</span>
-      </n-popover>
-    </n-space>
+  <div id="app">
+    <NuxtPage />
   </div>
 </template>
-<script lang="ts" setup>
-import { NButton } from 'naive-ui'
+<script lang="ts">
+
 </script>
+<style>
+/*
+  读取json
+  增加文件属性
+  修改文件
+*/
+/* @import url('~/assets/style/base.css'); */
+</style>
+<style lang="scss">
+#app {
+  position: relative;
+  width: 100vw;
+  min-height: 100vh;
+  color: #fff;
+  background: #1f1f1f;
+  overflow: hidden;
+}
+</style>

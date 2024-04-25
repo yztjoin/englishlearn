@@ -1,0 +1,986 @@
+[
+  {
+    "value": "sack/ sæk/ n.袋，麻袋;开除",
+    "prefix": "s"
+  },
+  {
+    "value": "sacrifice/ ‘sækrifais/ n.&vt.牺牲;南祭",
+    "prefix": "s"
+  },
+  {
+    "value": "saddle/ ‘sædl/ n.鞍子，马鞍",
+    "prefix": "s"
+  },
+  {
+    "value": "sail/ seil/ n.帆;船 vi.航行",
+    "prefix": "s"
+  },
+  {
+    "value": "sake/ seik/ n.缘故，理由",
+    "prefix": "s"
+  },
+  {
+    "value": "sample/ ‘sa:mpl/ n.样品;实例，标本",
+    "prefix": "s"
+  },
+  {
+    "value": "satellite/ ‘sætəlait/ n.卫星;人造卫星",
+    "prefix": "s"
+  },
+  {
+    "value": "satisfactory/ sætis’fæktəri/ a.令人满意的，良好的",
+    "prefix": "s"
+  },
+  {
+    "value": "saucer/ ‘sɔ:sə/ n.茶托，浅碟",
+    "prefix": "s"
+  },
+  {
+    "value": "sausage/ ‘sɔsidʒ/ n.香肠，腊肠",
+    "prefix": "s"
+  },
+  {
+    "value": "saw/ sɔ:/ n.锯子 vt.锯，锯开",
+    "prefix": "s"
+  },
+  {
+    "value": "say/ sei/ vt.比如说[用于举例]",
+    "prefix": "s"
+  },
+  {
+    "value": "scale/ skeil/ n.天平，磅秤，秤",
+    "prefix": "s"
+  },
+  {
+    "value": "scale/ skeil/ n.标度;比例;大小",
+    "prefix": "s"
+  },
+  {
+    "value": "scan/ skæn/ vt.细看;浏览;扫描",
+    "prefix": "s"
+  },
+  {
+    "value": "scarcely/ ‘skeəsli/ ad.仅仅;几乎不",
+    "prefix": "s"
+  },
+  {
+    "value": "scatter/ ‘skætə/ vt.使消散;撒;散播",
+    "prefix": "s"
+  },
+  {
+    "value": "scenery/ ‘si:nəri/ n.舞台布景;风景",
+    "prefix": "s"
+  },
+  {
+    "value": "schedule/ ‘ʃedju:l/ n.时间表;计划表",
+    "prefix": "s"
+  },
+  {
+    "value": "scheme/ ski:m/ n.计划，规划;诡计",
+    "prefix": "s"
+  },
+  {
+    "value": "scholar/ ‘skɔlə/ n.学者(尤指文学方面)",
+    "prefix": "s"
+  },
+  {
+    "value": "scientific/ saiən’tifik/ a.科学(上)的",
+    "prefix": "s"
+  },
+  {
+    "value": "scissors/ ‘sizəz/ n.剪刀，剪子",
+    "prefix": "s"
+  },
+  {
+    "value": "score/ skɔ:/ n.得分，比数，成绩",
+    "prefix": "s"
+  },
+  {
+    "value": "scout/ skaut/ n.侦察员，侦察机",
+    "prefix": "s"
+  },
+  {
+    "value": "scrape/ skreip/ vt.&vi.&n.刮，擦",
+    "prefix": "s"
+  },
+  {
+    "value": "scratch/ skrætʃ/ vt.&vi.&n.搔;抓",
+    "prefix": "s"
+  },
+  {
+    "value": "screw/ skru:/ n.螺旋，螺丝 vt.拧紧",
+    "prefix": "s"
+  },
+  {
+    "value": "seal/ ‘si:l/ n.封蜡;印记 vt.封",
+    "prefix": "s"
+  },
+  {
+    "value": "seal/ ‘si:l/ n.海豹",
+    "prefix": "s"
+  },
+  {
+    "value": "secondary/ ‘sekəndəri/ a.第二的;次要的",
+    "prefix": "s"
+  },
+  {
+    "value": "secretary/ ‘sekrətri/ n.秘书;书记;大臣",
+    "prefix": "s"
+  },
+  {
+    "value": "section/ ‘sekʃən/ n.切片;一段;部门",
+    "prefix": "s"
+  },
+  {
+    "value": "secure/ si’kjuə/ a.安心的;安全的",
+    "prefix": "s"
+  },
+  {
+    "value": "security/ si’kjuəriti/ n.安全，安全感",
+    "prefix": "s"
+  },
+  {
+    "value": "seed/ si:d/ n.种(子)，籽，萌芽",
+    "prefix": "s"
+  },
+  {
+    "value": "seek/ si:k/ vt.寻找，探索;试图",
+    "prefix": "s"
+  },
+  {
+    "value": "seize/ si:z/ vt.抓住，逮捕;夺取",
+    "prefix": "s"
+  },
+  {
+    "value": "semiconductor/ semikən’dΛktə/ n. 半导体",
+    "prefix": "s"
+  },
+  {
+    "value": "senate/ senit/ n.参议院，上院",
+    "prefix": "s"
+  },
+  {
+    "value": "senior/ ‘si:njə/ a.年少的;地位较高的",
+    "prefix": "s"
+  },
+  {
+    "value": "sensible/ ‘sensəbl/ a.感觉得到的;明智的",
+    "prefix": "s"
+  },
+  {
+    "value": "sensitive/ ‘sensitiv/ a.敏感的;灵敏的",
+    "prefix": "s"
+  },
+  {
+    "value": "separate/ ‘sepəreit, ‘sepərit/ a.分离的;个别的",
+    "prefix": "s"
+  },
+  {
+    "value": "sequence/ ‘si:kwəns/ n.连续，继续;次序",
+    "prefix": "s"
+  },
+  {
+    "value": "series/ ‘siəri:z/ n.连续，系列;丛书",
+    "prefix": "s"
+  },
+  {
+    "value": "serve/ sə:v/ vt.为…服务;招待",
+    "prefix": "s"
+  },
+  {
+    "value": "session/ ‘seʃən/ n.会议，一段时间",
+    "prefix": "s"
+  },
+  {
+    "value": "setting/ ‘setiŋ/ n.安装，调整;环境",
+    "prefix": "s"
+  },
+  {
+    "value": "settle/ ‘setl/ vt.安排;安放;调停",
+    "prefix": "s"
+  },
+  {
+    "value": "settlement/ ‘setlmənt/ n.解决;殖民，殖民地",
+    "prefix": "s"
+  },
+  {
+    "value": "severe/ si’viə/ a.严格的;严厉的",
+    "prefix": "s"
+  },
+  {
+    "value": "sew/ səu/ vt.缝制 vi.缝纫",
+    "prefix": "s"
+  },
+  {
+    "value": "shade/ ʃeid/ n.荫;遮光物 vi.荫蔽",
+    "prefix": "s"
+  },
+  {
+    "value": "shave/ ʃeiv/ vt.剃，刮 vi.修面",
+    "prefix": "s"
+  },
+  {
+    "value": "shear/ ʃiə/ vt.剪;剥夺 vi.剪",
+    "prefix": "s"
+  },
+  {
+    "value": "shed/ ʃed/ vt.流出;散发;脱落",
+    "prefix": "s"
+  },
+  {
+    "value": "shed/ ʃed/ n.棚，小屋;贷棚",
+    "prefix": "s"
+  },
+  {
+    "value": "sheet/ ʃi:t/ n.被单;纸张;薄板",
+    "prefix": "s"
+  },
+  {
+    "value": "shelf/ ʃelf/ n.搁板，架子",
+    "prefix": "s"
+  },
+  {
+    "value": "shelter/ ‘ʃeltə/ n.隐蔽处;掩蔽，庇护",
+    "prefix": "s"
+  },
+  {
+    "value": "shield/ ʃi:ld/ n.盾;防护物 vt.保护",
+    "prefix": "s"
+  },
+  {
+    "value": "shift/ ʃift/ vt.替换，转移 n.转换",
+    "prefix": "s"
+  },
+  {
+    "value": "shiver/ ‘ʃivə/ vi.颤抖，哆嗦 n.冷颤",
+    "prefix": "s"
+  },
+  {
+    "value": "shoot/ ʃu:t/ vt.发射;射中 n.发芽",
+    "prefix": "s"
+  },
+  {
+    "value": "shore/ ʃɔ:/ n.滨，岸",
+    "prefix": "s"
+  },
+  {
+    "value": "shortage/ ‘ʃɔ:tidʒ/ n.不足，缺少，不足额",
+    "prefix": "s"
+  },
+  {
+    "value": "shortly/ ‘ʃɔ:tli/ ad.立刻;简短地",
+    "prefix": "s"
+  },
+  {
+    "value": "shot/ ʃɔt/ n.发射;弹丸;射门",
+    "prefix": "s"
+  },
+  {
+    "value": "shower/ ‘ʃəuə, ‘ʃauə/ n.阵雨;(一)阵;淋浴",
+    "prefix": "s"
+  },
+  {
+    "value": "shriek/ ʃri:k/ vi.尖声喊叫 n.尖叫声",
+    "prefix": "s"
+  },
+  {
+    "value": "sideways/ ‘saidweiz/ ad.斜着，斜向一边地",
+    "prefix": "s"
+  },
+  {
+    "value": "sightseeing/ ‘saitsi:iŋ/ n.观光，游览",
+    "prefix": "s"
+  },
+  {
+    "value": "sign/ sain/ n.符号;招牌 n.签名",
+    "prefix": "s"
+  },
+  {
+    "value": "signal/ ‘signəl/ n.信号 vi.发信号",
+    "prefix": "s"
+  },
+  {
+    "value": "signature/ ‘signitʃə/ n.署名，签字，签名",
+    "prefix": "s"
+  },
+  {
+    "value": "significance/ sig’nifikəns/ n.意义，意味;重要性",
+    "prefix": "s"
+  },
+  {
+    "value": "significant/ sig’nifikənt/ n.有意义的;重要的",
+    "prefix": "s"
+  },
+  {
+    "value": "silence/ ‘sailəns/ n.沉默 vt.使沉默",
+    "prefix": "s"
+  },
+  {
+    "value": "silent/ ‘sailənt/ a.沉默的;寂静无声的",
+    "prefix": "s"
+  },
+  {
+    "value": "silk/ silk/ n.蚕丝，丝，丝织品",
+    "prefix": "s"
+  },
+  {
+    "value": "silly/ ‘sili/ a.傻的，愚蠢的",
+    "prefix": "s"
+  },
+  {
+    "value": "silver/ ‘silvə/ n.银;银子;银器",
+    "prefix": "s"
+  },
+  {
+    "value": "similar/ ‘similə/ a.相似的，类似的",
+    "prefix": "s"
+  },
+  {
+    "value": "similarly/ ‘similəli/ ad.类似地，相似地",
+    "prefix": "s"
+  },
+  {
+    "value": "simplicity/ sim’plisiti/ n.简单，简易;朴素",
+    "prefix": "s"
+  },
+  {
+    "value": "simplify/ ‘simplifai/ vt.简化，使单纯",
+    "prefix": "s"
+  },
+  {
+    "value": "simply/ ‘simpli/ ad.简单地;朴素地",
+    "prefix": "s"
+  },
+  {
+    "value": "sincere/ sin’siə/ a.真诚的;真挚的",
+    "prefix": "s"
+  },
+  {
+    "value": "singular/ ‘siŋgjulə/ a.单一的;非凡的",
+    "prefix": "s"
+  },
+  {
+    "value": "site/ sait/ n.地点，地基;场所",
+    "prefix": "s"
+  },
+  {
+    "value": "sketch/ sketʃ/ n.略图;速写;概略",
+    "prefix": "s"
+  },
+  {
+    "value": "skilled/ skild/ a.有技能的，熟练的",
+    "prefix": "s"
+  },
+  {
+    "value": "skillful/ ‘skilful/ a.灵巧的，娴熟的",
+    "prefix": "s"
+  },
+  {
+    "value": "skim/ skim/ vt.掠过，擦过;略读",
+    "prefix": "s"
+  },
+  {
+    "value": "slam/ slæm/ vt.使劲关，砰地放下",
+    "prefix": "s"
+  },
+  {
+    "value": "sleeve/ sli:v/ n.袖子，袖套",
+    "prefix": "s"
+  },
+  {
+    "value": "slender/ ‘slendə/ a.细长的;微薄的",
+    "prefix": "s"
+  },
+  {
+    "value": "slice/ slais/ n.薄片，切片;部分",
+    "prefix": "s"
+  },
+  {
+    "value": "slide/ slaid/ vi.滑 vt.使滑动 n.滑",
+    "prefix": "s"
+  },
+  {
+    "value": "slippery/ ‘slipəri/ a.滑的，使人滑跤的",
+    "prefix": "s"
+  },
+  {
+    "value": "slit/ slit/ n.裂缝 vt.切开，撕开",
+    "prefix": "s"
+  },
+  {
+    "value": "slope/ sləup/ n.倾斜;斜面 vi.倾斜",
+    "prefix": "s"
+  },
+  {
+    "value": "smart/ sma:t/ a.巧妙的;洒脱的",
+    "prefix": "s"
+  },
+  {
+    "value": "soak/ səuk/ vt.浸，泡 vi.浸泡",
+    "prefix": "s"
+  },
+  {
+    "value": "sɔil/ sɔil/ vt.弄脏 vi.变脏",
+    "prefix": "s"
+  },
+  {
+    "value": "solar/ ‘səulə/ a.太阳的，日光的",
+    "prefix": "s"
+  },
+  {
+    "value": "sole/ səul/ n.脚底，鞋底，袜底",
+    "prefix": "s"
+  },
+  {
+    "value": "sole/ səul/ a.单独的，唯一的",
+    "prefix": "s"
+  },
+  {
+    "value": "solemn/ ‘sɔləm/ a.庄严的;隆重的",
+    "prefix": "s"
+  },
+  {
+    "value": "solid/ ‘sɔlid/ a.固体的 n.固体",
+    "prefix": "s"
+  },
+  {
+    "value": "soluble/ ‘sɔljubl/ a.可溶的;可以解决的",
+    "prefix": "s"
+  },
+  {
+    "value": "solution/ sə’lju:ʃən/ n.解决，解答;溶解",
+    "prefix": "s"
+  },
+  {
+    "value": "solve/ ‘sɔlv/ vt.解答，解释，解决",
+    "prefix": "s"
+  },
+  {
+    "value": "somebody/ ‘sΛmbədi/ pron.某人，有人",
+    "prefix": "s"
+  },
+  {
+    "value": "somehow/ ‘sΛmhau/ ad.由于某种原因",
+    "prefix": "s"
+  },
+  {
+    "value": "sometime/ ‘sΛmtaim/ ad.在某一时候;从前",
+    "prefix": "s"
+  },
+  {
+    "value": "somewhat/ ‘sΛmwɔt/ pron.一点儿 ad.有点",
+    "prefix": "s"
+  },
+  {
+    "value": "sophisticated/ sə’fistikeitid/ a.老于世故的;高级的",
+    "prefix": "s"
+  },
+  {
+    "value": "sore/ sɔ:/ a.痛的;恼火的 n.疮",
+    "prefix": "s"
+  },
+  {
+    "value": "sorrow/ ‘sɔrəu/ n.悲痛，悲哀，悲伤",
+    "prefix": "s"
+  },
+  {
+    "value": "sort/ sɔ:t/ n.种类;类别 vt.整理",
+    "prefix": "s"
+  },
+  {
+    "value": "sound/ saund/ a.健康的;完好的",
+    "prefix": "s"
+  },
+  {
+    "value": "sour/ ‘sauə/ a.酸的;脾气坏的",
+    "prefix": "s"
+  },
+  {
+    "value": "sow/ səu/ vt.播(种) vi.播种",
+    "prefix": "s"
+  },
+  {
+    "value": "spacecraft/ ‘speiskra:ft/ n.航天器，宇宙飞船",
+    "prefix": "s"
+  },
+  {
+    "value": "spade/ speid/ n.铲，铁锹",
+    "prefix": "s"
+  },
+  {
+    "value": "span/ spæn/ n.跨距;一段时间",
+    "prefix": "s"
+  },
+  {
+    "value": "spare/ speə/ vt.节约 a.多余的",
+    "prefix": "s"
+  },
+  {
+    "value": "spark/ spa:k/ n.火花， 火星",
+    "prefix": "s"
+  },
+  {
+    "value": "specialist/ speʃəlist/ n.专家",
+    "prefix": "s"
+  },
+  {
+    "value": "specialize/ ‘speʃəlaiz/ vi.成为…专家;专攻",
+    "prefix": "s"
+  },
+  {
+    "value": "specific/ spi’sifik/ a.特有的;具体的",
+    "prefix": "s"
+  },
+  {
+    "value": "specify/ ‘spesifai/ vi.指定，详细说明",
+    "prefix": "s"
+  },
+  {
+    "value": "specimen/ ‘spesimin/ n.样本，标本，样品",
+    "prefix": "s"
+  },
+  {
+    "value": "sphere/ sfiə/ n.球，圆体;范围",
+    "prefix": "s"
+  },
+  {
+    "value": "spill/ spil/ vt.使溢出 vi.溢出",
+    "prefix": "s"
+  },
+  {
+    "value": "spin/ spin/ vt.纺;使旋转 n.旋转",
+    "prefix": "s"
+  },
+  {
+    "value": "spite/ spait/ n. 恶意,怨恨,不顾 vt. 刁难,欺侮",
+    "prefix": "s"
+  },
+  {
+    "value": "split/ split/ vt.劈开 vi.被劈开",
+    "prefix": "s"
+  },
+  {
+    "value": "spɔil/ spɔil/ vt.损坏，糟蹋;宠坏",
+    "prefix": "s"
+  },
+  {
+    "value": "sponsor/ ‘spɔnsə/ n.发起者 vt.发起",
+    "prefix": "s"
+  },
+  {
+    "value": "sportsman/ ‘spɔ:tsmən/ n.运动员",
+    "prefix": "s"
+  },
+  {
+    "value": "spray/ sprei/ n.浪花;喷雾 vt.喷",
+    "prefix": "s"
+  },
+  {
+    "value": "spring/ spriŋ/ vi.跳，跃 n.跳跃;泉",
+    "prefix": "s"
+  },
+  {
+    "value": "spur/ spə:/ n.刺激物 vt.刺激",
+    "prefix": "s"
+  },
+  {
+    "value": "square/ skweə/ n.正方形;广场",
+    "prefix": "s"
+  },
+  {
+    "value": "squeeze/ ‘skwi:z/ vt.&vi.榨，挤;压榨",
+    "prefix": "s"
+  },
+  {
+    "value": "stability/ stə’biliti/ n.稳定，稳定性，巩固",
+    "prefix": "s"
+  },
+  {
+    "value": "stable/ ‘steibl/ a.稳定的，不变的",
+    "prefix": "s"
+  },
+  {
+    "value": "stable/ ‘steibl/ n.厩，马厩，牛棚",
+    "prefix": "s"
+  },
+  {
+    "value": "stack/ stæk/ n.堆，垛 vt.堆积",
+    "prefix": "s"
+  },
+  {
+    "value": "staff/ sta:f/ n.工作人员;参谋",
+    "prefix": "s"
+  },
+  {
+    "value": "stage/ steidʒ/ n.舞台;戏剧;阶段",
+    "prefix": "s"
+  },
+  {
+    "value": "stain/ stein/ vt.沾污;给…着色",
+    "prefix": "s"
+  },
+  {
+    "value": "stair/ steə/ n.楼梯",
+    "prefix": "s"
+  },
+  {
+    "value": "stake/ steik/ n.桩;赌金;奖品",
+    "prefix": "s"
+  },
+  {
+    "value": "stale/ steil/ n.陈腐的;走了气的",
+    "prefix": "s"
+  },
+  {
+    "value": "static/ ‘stætikl/ a.静的;静态的",
+    "prefix": "s"
+  },
+  {
+    "value": "statistical/ stə’tistikl/ a.统计的，统计学的",
+    "prefix": "s"
+  },
+  {
+    "value": "statue/ ‘stætju:/ n.塑像，雕像，铸像",
+    "prefix": "s"
+  },
+  {
+    "value": "status/ ‘steitəs/ n.地位，身分",
+    "prefix": "s"
+  },
+  {
+    "value": "steady/ ‘stedi/ a.稳固的 vt.使稳定",
+    "prefix": "s"
+  },
+  {
+    "value": "steam/ sti:m/ n.蒸汽 vi.蒸发 vt.蒸",
+    "prefix": "s"
+  },
+  {
+    "value": "steamer/ ‘sti:mə/ n.轮船，汽船",
+    "prefix": "s"
+  },
+  {
+    "value": "steel/ ‘sti:l/ n.钢，钢铁",
+    "prefix": "s"
+  },
+  {
+    "value": "steep/ sti:p/ a.险峻的，陡峭的",
+    "prefix": "s"
+  },
+  {
+    "value": "steer/ stiə/ vt.&vi.驾驶",
+    "prefix": "s"
+  },
+  {
+    "value": "stem/ stem/ n.茎，(树)干 vi.起源",
+    "prefix": "s"
+  },
+  {
+    "value": "sticky/ ‘stiki/ a.粘性的;胶粘的",
+    "prefix": "s"
+  },
+  {
+    "value": "stiff/ stif/ a.硬的;僵直的",
+    "prefix": "s"
+  },
+  {
+    "value": "stimulate/ ‘stimjuleit/ vt.刺激，激励，激发",
+    "prefix": "s"
+  },
+  {
+    "value": "sting/ stiŋ/ vt.刺;刺痛 vi.&n.刺",
+    "prefix": "s"
+  },
+  {
+    "value": "stir/ stə:/ vt.动;拨动;激动",
+    "prefix": "s"
+  },
+  {
+    "value": "stock/ stɔk/ n.原料;库存品;股本",
+    "prefix": "s"
+  },
+  {
+    "value": "stocking/ ‘stɔkiŋ/ n.长(统)袜",
+    "prefix": "s"
+  },
+  {
+    "value": "stoop/ stu:p/ vi.俯身;弯身 n.弯腰",
+    "prefix": "s"
+  },
+  {
+    "value": "storage/ ‘stɔ:ridʒ/ n.贮藏;贮藏量",
+    "prefix": "s"
+  },
+  {
+    "value": "store/ stɔ:/ n.贮藏;贮存品;商店",
+    "prefix": "s"
+  },
+  {
+    "value": "storey/ ‘stɔ:ri/ n.(层)楼",
+    "prefix": "s"
+  },
+  {
+    "value": "stove/ stəuv/ n.炉，火炉，电炉",
+    "prefix": "s"
+  },
+  {
+    "value": "strain/ ‘strein/ vt.拉紧 vi.尽力",
+    "prefix": "s"
+  },
+  {
+    "value": "strange/ streindʒ/ a.陌生的;奇怪的",
+    "prefix": "s"
+  },
+  {
+    "value": "stranger/ ‘streindʒə/ n.陌生人;新来者",
+    "prefix": "s"
+  },
+  {
+    "value": "strap/ stræp/ n.带子 vt.捆扎",
+    "prefix": "s"
+  },
+  {
+    "value": "strategy/ ‘strætidʒi/ n.战略;策略",
+    "prefix": "s"
+  },
+  {
+    "value": "straw/ strɔ:/ n.稻草，麦杆吸管",
+    "prefix": "s"
+  },
+  {
+    "value": "strengthen/ ‘streŋθən/ vt.加强，巩固",
+    "prefix": "s"
+  },
+  {
+    "value": "stress/ stres/ n.压力;重音 vt.着重",
+    "prefix": "s"
+  },
+  {
+    "value": "stretch/ stretʃ/ vt.伸展 vi.伸 n.伸展",
+    "prefix": "s"
+  },
+  {
+    "value": "string/ striŋ/ n.线，细绳;一串",
+    "prefix": "s"
+  },
+  {
+    "value": "strip/ strip/ vt.剥;夺去 n.条带",
+    "prefix": "s"
+  },
+  {
+    "value": "stripe/ straip/ n.条纹，条子",
+    "prefix": "s"
+  },
+  {
+    "value": "stroke/ strəuk/ n.打，击;鸣声;中风",
+    "prefix": "s"
+  },
+  {
+    "value": "stroke/ strəuk/ vt.&n.抚，摩，捋",
+    "prefix": "s"
+  },
+  {
+    "value": "structural/ ‘strΛktʃərəl/ a.结构的，构造的",
+    "prefix": "s"
+  },
+  {
+    "value": "stuff/ stΛf/ n.材料 vt.装，填，塞",
+    "prefix": "s"
+  },
+  {
+    "value": "submarine/ ‘sΛbməri:n/ a.水下的 n.潜水艇",
+    "prefix": "s"
+  },
+  {
+    "value": "submerge/ sΛb’mə:dʒ/ vt.浸没 vi.潜入水中",
+    "prefix": "s"
+  },
+  {
+    "value": "submit/ sΛb’mit/ vt.使服从 vi.服从",
+    "prefix": "s"
+  },
+  {
+    "value": "subsequent/ ‘sΛbsikwənt/ a.随后的，后来的",
+    "prefix": "s"
+  },
+  {
+    "value": "substance/ ‘sΛbstəns/ n.物质;实质;本旨",
+    "prefix": "s"
+  },
+  {
+    "value": "substantial/ səb’stænʃəl/ a.物质的;坚固的",
+    "prefix": "s"
+  },
+  {
+    "value": "substitute/ ‘sΛbstitju:t/ n.代替人 vt.用…代替",
+    "prefix": "s"
+  },
+  {
+    "value": "subtract/ səb’trækt/ vt.减，减去，去掉",
+    "prefix": "s"
+  },
+  {
+    "value": "subway/ ‘sΛbwei/ n.地道;地下铁路",
+    "prefix": "s"
+  },
+  {
+    "value": "succession/ sək’seʃən/ n.连续;继任，继承",
+    "prefix": "s"
+  },
+  {
+    "value": "successive/ sək’sesiv/ a.连续的;接连的",
+    "prefix": "s"
+  },
+  {
+    "value": "suck/ sΛk/ vt.吸，吮，啜;吸收",
+    "prefix": "s"
+  },
+  {
+    "value": "sufficient/ sə’fiʃənt/ a.足够的，充分的",
+    "prefix": "s"
+  },
+  {
+    "value": "suit/ sju:t/ n.起拆，诉讼【其动词形式为sue】 vt.适合",
+    "prefix": "s"
+  },
+  {
+    "value": "sulfur/ ‘sΛlfə/ n.硫(磺)，硫黄",
+    "prefix": "s"
+  },
+  {
+    "value": "sulphur/ ‘sΛlfə/ n.硫(磺)，硫黄",
+    "prefix": "s"
+  },
+  {
+    "value": "sum/ sΛm/ n.总数;金额 vi.共计",
+    "prefix": "s"
+  },
+  {
+    "value": "summarize/ ‘sΛməraiz/ vt.概括，概述，总结",
+    "prefix": "s"
+  },
+  {
+    "value": "superficial/ sju:pə’fiʃəl/ a.表面的;肤浅的",
+    "prefix": "s"
+  },
+  {
+    "value": "superior/ sju:’piəriə/ a.较高的;优越的",
+    "prefix": "s"
+  },
+  {
+    "value": "supplement/ ‘sΛplimənt/ n.&vt.增补，补充",
+    "prefix": "s"
+  },
+  {
+    "value": "suppose/ sə’pəuz/ vt.猜想;假定;让",
+    "prefix": "s"
+  },
+  {
+    "value": "supreme/ sju:’pri:m/ a.最高的;最大的",
+    "prefix": "s"
+  },
+  {
+    "value": "surgery/ ‘sə:dʒəri/ n.外科，外科手术",
+    "prefix": "s"
+  },
+  {
+    "value": "surrender/ sə’rendə/ vt.交出 vi.投降",
+    "prefix": "s"
+  },
+  {
+    "value": "surroundings/ sə’raundiŋz/ n.周围的事物，环境",
+    "prefix": "s"
+  },
+  {
+    "value": "survey/ sə:’vei/ vt.俯瞰;检查;测量",
+    "prefix": "s"
+  },
+  {
+    "value": "survive/ sə’vaiv/ vt.幸免于 vi.活下来",
+    "prefix": "s"
+  },
+  {
+    "value": "suspect/ səs’pekt, ‘sΛspekt/ vt.怀疑 vi.疑心",
+    "prefix": "s"
+  },
+  {
+    "value": "suspend/ səs’pend/ vt.吊，悬;推迟",
+    "prefix": "s"
+  },
+  {
+    "value": "suspicion/ səs’piʃən/ n.怀疑，疑心，猜疑",
+    "prefix": "s"
+  },
+  {
+    "value": "suspicious / səs’piʃəs/ adj.怀疑的;可疑的",
+    "prefix": "s"
+  },
+  {
+    "value": "sustain/ səs’tein/ vt.支撑;供养;忍受",
+    "prefix": "s"
+  },
+  {
+    "value": "swallow/ ‘swɔləu/ n.燕子",
+    "prefix": "s"
+  },
+  {
+    "value": "swallow/ ‘swɔləu/ vt.&vi.吞下，咽下",
+    "prefix": "s"
+  },
+  {
+    "value": "sway/ swei/ vi.摇动 vt.摇;摇动",
+    "prefix": "s"
+  },
+  {
+    "value": "swear/ sweə/ vt.宣(誓) vi.诅咒",
+    "prefix": "s"
+  },
+  {
+    "value": "sweater/ ‘swetə/ n.厚运动衫，毛线衫",
+    "prefix": "s"
+  },
+  {
+    "value": "sweep/ swi:p/ vt.扫;刮起;扫过",
+    "prefix": "s"
+  },
+  {
+    "value": "swell/ swel/ vi.膨胀;隆起;增长",
+    "prefix": "s"
+  },
+  {
+    "value": "swift/ swift/ a.快的;反应快的",
+    "prefix": "s"
+  },
+  {
+    "value": "swing/ swiŋ/ vi.摇摆;回转 n.摇摆",
+    "prefix": "s"
+  },
+  {
+    "value": "switch/ switʃ/ n.开关;转换 vt.转换",
+    "prefix": "s"
+  },
+  {
+    "value": "sword/ sɔ:d/ n.剑，刀",
+    "prefix": "s"
+  },
+  {
+    "value": "symbol/ ‘simbəl/ n.象征;符号，记号",
+    "prefix": "s"
+  },
+  {
+    "value": "sympathetic/ simpə’θetik/ a.同情的;和谐的",
+    "prefix": "s"
+  },
+  {
+    "value": "sympathize/ ‘simpəθaiz/ vi.同情;同感，共鸣",
+    "prefix": "s"
+  },
+  {
+    "value": "synthetic/ sin’θetik/ a.综合的;合成的",
+    "prefix": "s"
+  },
+  {
+    "value": "systematic(al)/ sisti’mætik(əl)/ a.有系统的;有计划的",
+    "prefix": "s"
+  }
+]

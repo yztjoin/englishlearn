@@ -1,0 +1,534 @@
+[
+  {
+    "value": "identify with认为…等同于",
+    "prefix": "i"
+  },
+  {
+    "value": "if any若有的话",
+    "prefix": "i"
+  },
+  {
+    "value": "if only只要/要是…就好",
+    "prefix": "i"
+  },
+  {
+    "value": "improve on对…作出改进/超过",
+    "prefix": "i"
+  },
+  {
+    "value": "in a hurry匆忙/立即/很快地",
+    "prefix": "i"
+  },
+  {
+    "value": "in a moment立即/立刻",
+    "prefix": "i"
+  },
+  {
+    "value": "in a sense从某种意义上说",
+    "prefix": "i"
+  },
+  {
+    "value": "in a way在某种程度上",
+    "prefix": "i"
+  },
+  {
+    "value": "in a word总而言之/总之",
+    "prefix": "i"
+  },
+  {
+    "value": "in accordance with与…一致/按照/根据",
+    "prefix": "i"
+  },
+  {
+    "value": "in addition另外",
+    "prefix": "i"
+  },
+  {
+    "value": "in addition to除…之外(还有)",
+    "prefix": "i"
+  },
+  {
+    "value": "in advance在前面/预先",
+    "prefix": "i"
+  },
+  {
+    "value": "in advance of在…的前面/超过",
+    "prefix": "i"
+  },
+  {
+    "value": "in all总共/共计",
+    "prefix": "i"
+  },
+  {
+    "value": "in all directions向四面八方",
+    "prefix": "i"
+  },
+  {
+    "value": "in and out进进出出",
+    "prefix": "i"
+  },
+  {
+    "value": "in any case无论如何/总之",
+    "prefix": "i"
+  },
+  {
+    "value": "in any event不管怎样/无论如何",
+    "prefix": "i"
+  },
+  {
+    "value": "in brief简言之/以简洁的形式",
+    "prefix": "i"
+  },
+  {
+    "value": "in case假如/免得",
+    "prefix": "i"
+  },
+  {
+    "value": "in case of假如/万一…",
+    "prefix": "i"
+  },
+  {
+    "value": "in charge of主管/掌管/照管",
+    "prefix": "i"
+  },
+  {
+    "value": "in common共用/公有/共同",
+    "prefix": "i"
+  },
+  {
+    "value": "in comparison with与…比较",
+    "prefix": "i"
+  },
+  {
+    "value": "in consequence结果是/因此",
+    "prefix": "i"
+  },
+  {
+    "value": "in consequence of由于…的缘故",
+    "prefix": "i"
+  },
+  {
+    "value": "in danger在危险中/垂危",
+    "prefix": "i"
+  },
+  {
+    "value": "in debt to sb.欠某人的债",
+    "prefix": "i"
+  },
+  {
+    "value": "in detail详细地",
+    "prefix": "i"
+  },
+  {
+    "value": "in difficulties处境困难",
+    "prefix": "i"
+  },
+  {
+    "value": "in due course在适当的时候",
+    "prefix": "i"
+  },
+  {
+    "value": "in effect实际上/正实行中",
+    "prefix": "i"
+  },
+  {
+    "value": "in error弄错了的/错误地",
+    "prefix": "i"
+  },
+  {
+    "value": "in every way在各方面/以各种方式",
+    "prefix": "i"
+  },
+  {
+    "value": "in excess of超过",
+    "prefix": "i"
+  },
+  {
+    "value": "in exchange for交换",
+    "prefix": "i"
+  },
+  {
+    "value": "in face of面对/纵然/即使",
+    "prefix": "i"
+  },
+  {
+    "value": "in fact其实/实际上",
+    "prefix": "i"
+  },
+  {
+    "value": "in faith确实/的确",
+    "prefix": "i"
+  },
+  {
+    "value": "in favour of赞成/支持/有利于",
+    "prefix": "i"
+  },
+  {
+    "value": "in focus焦点对准/清晰",
+    "prefix": "i"
+  },
+  {
+    "value": "in force(法律)有效的/大批地",
+    "prefix": "i"
+  },
+  {
+    "value": "in front of在…前面/面对",
+    "prefix": "i"
+  },
+  {
+    "value": "in full充足/十足",
+    "prefix": "i"
+  },
+  {
+    "value": "in full swing活跃/正在全力进行",
+    "prefix": "i"
+  },
+  {
+    "value": "in future今后/以后",
+    "prefix": "i"
+  },
+  {
+    "value": "in general通常/一般地说",
+    "prefix": "i"
+  },
+  {
+    "value": "in good health身体好",
+    "prefix": "i"
+  },
+  {
+    "value": "in half成两半",
+    "prefix": "i"
+  },
+  {
+    "value": "in hand现有在手头/在进行中",
+    "prefix": "i"
+  },
+  {
+    "value": "in itself本质上/就其本身而言",
+    "prefix": "i"
+  },
+  {
+    "value": "in light of按照/根据/鉴于",
+    "prefix": "i"
+  },
+  {
+    "value": "in line成一直线/整齐/一致",
+    "prefix": "i"
+  },
+  {
+    "value": "in line with跟…一致/符合",
+    "prefix": "i"
+  },
+  {
+    "value": "in memory of纪念…",
+    "prefix": "i"
+  },
+  {
+    "value": "in nature性质上/实际上",
+    "prefix": "i"
+  },
+  {
+    "value": "in no case决不/无论如何不",
+    "prefix": "i"
+  },
+  {
+    "value": "in no time立即/立刻/马上",
+    "prefix": "i"
+  },
+  {
+    "value": "in no way决不/一点也不",
+    "prefix": "i"
+  },
+  {
+    "value": "in one's honour向…表示敬意",
+    "prefix": "i"
+  },
+  {
+    "value": "in order整齐/状况良好",
+    "prefix": "i"
+  },
+  {
+    "value": "in order that以便/为了…",
+    "prefix": "i"
+  },
+  {
+    "value": "in order to以便/以…为目的",
+    "prefix": "i"
+  },
+  {
+    "value": "in other words换句话说/也就是说",
+    "prefix": "i"
+  },
+  {
+    "value": "in part在某种程度上/部份地",
+    "prefix": "i"
+  },
+  {
+    "value": "in particular特别/尤其/详细地",
+    "prefix": "i"
+  },
+  {
+    "value": "in person亲自/身体上/外貌上",
+    "prefix": "i"
+  },
+  {
+    "value": "in place在适当的位置/适当的",
+    "prefix": "i"
+  },
+  {
+    "value": "in place of代替",
+    "prefix": "i"
+  },
+  {
+    "value": "in point of实际上/就事实而论",
+    "prefix": "i"
+  },
+  {
+    "value": "in practice在实践中",
+    "prefix": "i"
+  },
+  {
+    "value": "in proportion to与…成比例/与…相称",
+    "prefix": "i"
+  },
+  {
+    "value": "in public公开地/当众",
+    "prefix": "i"
+  },
+  {
+    "value": "in quantity大量",
+    "prefix": "i"
+  },
+  {
+    "value": "in question正在谈论的",
+    "prefix": "i"
+  },
+  {
+    "value": "in regard to关于",
+    "prefix": "i"
+  },
+  {
+    "value": "in relation to关于/有关/与…相比",
+    "prefix": "i"
+  },
+  {
+    "value": "in respect that因为/考虑到",
+    "prefix": "i"
+  },
+  {
+    "value": "in return作为回报/作为报答",
+    "prefix": "i"
+  },
+  {
+    "value": "in return for作为…的交换",
+    "prefix": "i"
+  },
+  {
+    "value": "in school在求学",
+    "prefix": "i"
+  },
+  {
+    "value": "in search of寻找/寻求",
+    "prefix": "i"
+  },
+  {
+    "value": "in season(水果等)应时的",
+    "prefix": "i"
+  },
+  {
+    "value": "in secret秘密地/私下地",
+    "prefix": "i"
+  },
+  {
+    "value": "in session在开会/在开庭",
+    "prefix": "i"
+  },
+  {
+    "value": "in short总之/总而言之",
+    "prefix": "i"
+  },
+  {
+    "value": "in sight被见到/看得见/在望",
+    "prefix": "i"
+  },
+  {
+    "value": "in so far as(程度等)就…/至于",
+    "prefix": "i"
+  },
+  {
+    "value": "in spite of尽管/不顾/虽然",
+    "prefix": "i"
+  },
+  {
+    "value": "in step协调/同步/合拍",
+    "prefix": "i"
+  },
+  {
+    "value": "in support of支援/支持/拥护",
+    "prefix": "i"
+  },
+  {
+    "value": "in tears流着泪/含泪哭",
+    "prefix": "i"
+  },
+  {
+    "value": "in terms of根据/以…的措词",
+    "prefix": "i"
+  },
+  {
+    "value": "in that既然/因为",
+    "prefix": "i"
+  },
+  {
+    "value": "in the air在空中/未定",
+    "prefix": "i"
+  },
+  {
+    "value": "in the case of就…来说/至于",
+    "prefix": "i"
+  },
+  {
+    "value": "in the course of在…期间/在…过程中",
+    "prefix": "i"
+  },
+  {
+    "value": "in the dark在黑暗中/秘密地",
+    "prefix": "i"
+  },
+  {
+    "value": "in the distance在远处/远方的",
+    "prefix": "i"
+  },
+  {
+    "value": "in the end最后/终于",
+    "prefix": "i"
+  },
+  {
+    "value": "in the event of如果…发生/万一",
+    "prefix": "i"
+  },
+  {
+    "value": "in the first place起初/本来/首先",
+    "prefix": "i"
+  },
+  {
+    "value": "in the future将来",
+    "prefix": "i"
+  },
+  {
+    "value": "in the heat of在(辩论)最激烈的时候",
+    "prefix": "i"
+  },
+  {
+    "value": "in the interest of为了…的利益/为了",
+    "prefix": "i"
+  },
+  {
+    "value": "in the least一点(也不)/丝毫(不)",
+    "prefix": "i"
+  },
+  {
+    "value": "in the long run从长远来看/最后",
+    "prefix": "i"
+  },
+  {
+    "value": "in the main基本上/大体上",
+    "prefix": "i"
+  },
+  {
+    "value": "in the mass总体上/整个儿地",
+    "prefix": "i"
+  },
+  {
+    "value": "in the name of以…的名义/代表",
+    "prefix": "i"
+  },
+  {
+    "value": "in the nature of具有…的性质的",
+    "prefix": "i"
+  },
+  {
+    "value": "in the negative否定地/否决",
+    "prefix": "i"
+  },
+  {
+    "value": "in the open在户外/在露天",
+    "prefix": "i"
+  },
+  {
+    "value": "in the past在过去",
+    "prefix": "i"
+  },
+  {
+    "value": "in the shape of呈…的形状",
+    "prefix": "i"
+  },
+  {
+    "value": "in the way挡道的/妨碍人的",
+    "prefix": "i"
+  },
+  {
+    "value": "in the way of妨碍/在…方面/关于",
+    "prefix": "i"
+  },
+  {
+    "value": "in the world究竟/到底/天下",
+    "prefix": "i"
+  },
+  {
+    "value": "in this case既然是这样",
+    "prefix": "i"
+  },
+  {
+    "value": "in time及时/适时/还早",
+    "prefix": "i"
+  },
+  {
+    "value": "in touch联系/接触",
+    "prefix": "i"
+  },
+  {
+    "value": "in truth事实上/的确",
+    "prefix": "i"
+  },
+  {
+    "value": "in turn依次/轮流",
+    "prefix": "i"
+  },
+  {
+    "value": "in use在使用着",
+    "prefix": "i"
+  },
+  {
+    "value": "in vain徒劳/白辛苦/轻慢",
+    "prefix": "i"
+  },
+  {
+    "value": "in view of鉴于/考虑到/由于",
+    "prefix": "i"
+  },
+  {
+    "value": "inquire about询问/打听",
+    "prefix": "i"
+  },
+  {
+    "value": "inquire after问起(某人)的健康情况",
+    "prefix": "i"
+  },
+  {
+    "value": "inquire for询问(商店、地点等)",
+    "prefix": "i"
+  },
+  {
+    "value": "instead of代替/而不是…",
+    "prefix": "i"
+  },
+  {
+    "value": "interfere in干涉/干预",
+    "prefix": "i"
+  },
+  {
+    "value": "interfere with打扰(某人)/妨碍",
+    "prefix": "i"
+  }
+]
